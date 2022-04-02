@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <title>Bramki checkBox</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+    <input type="checkbox" id="x1" name="x2" value="x2">
+    <label for="x1">x1</label><br>
+    <input type="checkbox" id="x2" name="x2" value="x2">
+    <label for="x2"> x2</label><br>
+    <input type="checkbox" id="x3" name="x3" value="x3">
+    <label for="x3"> x3</label><br>
+    <input type="checkbox" id="x4" name="x4" value="x4">
+    <label for="x4"> x4</label><br>
+
+</div>
+    <h1>Click on it<input type="button" value="submit " onclick="getValues()"></h1>
+    <script>
+    const getValues=() => {
+        const v1 = document.getElementById("x1").checked;
+        const v2 = document.getElementById("x2").checked;
+        const v3 = document.getElementById("x3").checked;
+        const v4 = document.getElementById("x4").checked;
+
+        const gate1 = v1 && v2;
+        const gate2 = !(v3);
+        const gate3 = !(v4);
+        const gate4 = gate1 || gate2;
+        const gate5 = gate2 && gate3;
+        const gate6 = !gate5;
+    
+    document.getElementById("number1").innerHTML = gate5 ;
+    document.getElementById("number0").innerHTML = gate6 ;
+    }
+    </script>
+        <p id="number1"></p>
+       <p id="number0"></p>
+<h1>
+<img src="tab.PNG" alt="tabOfTruth">
+<img src="diagram.PNG" alt="diagramOfTruth">
+</h1>
+
+</body>
+</html>

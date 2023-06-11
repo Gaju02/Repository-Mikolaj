@@ -9,3 +9,4 @@
 - Simple Python projects
 - Python detection
 - SQL projects
+- School programs in html, css and js

@@ -10,3 +10,4 @@
 - Python detection
 - SQL projects
 - School programs in html, css and js
+- School programs in c

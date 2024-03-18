@@ -1,0 +1,4066 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Country>
+    <Code>ABW</Code>
+    <Name>Aruba</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>193</SurfaceArea>
+    <IndepYear/>
+    <Population>103000</Population>
+    <LifeExpectancy>78.4</LifeExpectancy>
+    <GNP>828</GNP>
+    <GNPOld>793</GNPOld>
+    <LocalName>Aruba</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of The Netherlands</GovernmentForm>
+    <HeadOfState>Beatrix</HeadOfState>
+    <Capital>129</Capital>
+    <Code2>AW</Code2>
+  </Country>
+  <Country>
+    <Code>AFG</Code>
+    <Name>Afghanistan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>652090</SurfaceArea>
+    <IndepYear>1919</IndepYear>
+    <Population>22720000</Population>
+    <LifeExpectancy>45.9</LifeExpectancy>
+    <GNP>5976</GNP>
+    <GNPOld/>
+    <LocalName>Afganistan/Afqanestan</LocalName>
+    <GovernmentForm>Islamic Emirate</GovernmentForm>
+    <HeadOfState>Mohammad Omar</HeadOfState>
+    <Capital>1</Capital>
+    <Code2>AF</Code2>
+  </Country>
+  <Country>
+    <Code>AGO</Code>
+    <Name>Angola</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>1246700</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>12878000</Population>
+    <LifeExpectancy>38.3</LifeExpectancy>
+    <GNP>6648</GNP>
+    <GNPOld>7984</GNPOld>
+    <LocalName>Angola</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>JosÃ© Eduardo dos Santos</HeadOfState>
+    <Capital>56</Capital>
+    <Code2>AO</Code2>
+  </Country>
+  <Country>
+    <Code>AIA</Code>
+    <Name>Anguilla</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>96</SurfaceArea>
+    <IndepYear/>
+    <Population>8000</Population>
+    <LifeExpectancy>76.1</LifeExpectancy>
+    <GNP>63.2</GNP>
+    <GNPOld/>
+    <LocalName>Anguilla</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>62</Capital>
+    <Code2>AI</Code2>
+  </Country>
+  <Country>
+    <Code>ALB</Code>
+    <Name>Albania</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>28748</SurfaceArea>
+    <IndepYear>1912</IndepYear>
+    <Population>3401200</Population>
+    <LifeExpectancy>71.6</LifeExpectancy>
+    <GNP>3205</GNP>
+    <GNPOld>2500</GNPOld>
+    <LocalName>ShqipÃ«ria</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Rexhep Mejdani</HeadOfState>
+    <Capital>34</Capital>
+    <Code2>AL</Code2>
+  </Country>
+  <Country>
+    <Code>AND</Code>
+    <Name>Andorra</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>468</SurfaceArea>
+    <IndepYear>1278</IndepYear>
+    <Population>78000</Population>
+    <LifeExpectancy>83.5</LifeExpectancy>
+    <GNP>1630</GNP>
+    <GNPOld/>
+    <LocalName>Andorra</LocalName>
+    <GovernmentForm>Parliamentary Coprincipality</GovernmentForm>
+    <HeadOfState></HeadOfState>
+    <Capital>55</Capital>
+    <Code2>AD</Code2>
+  </Country>
+  <Country>
+    <Code>ANT</Code>
+    <Name>Netherlands Antilles</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>800</SurfaceArea>
+    <IndepYear/>
+    <Population>217000</Population>
+    <LifeExpectancy>74.7</LifeExpectancy>
+    <GNP>1941</GNP>
+    <GNPOld/>
+    <LocalName>Nederlandse Antillen</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of The Netherlands</GovernmentForm>
+    <HeadOfState>Beatrix</HeadOfState>
+    <Capital>33</Capital>
+    <Code2>AN</Code2>
+  </Country>
+  <Country>
+    <Code>ARE</Code>
+    <Name>United Arab Emirates</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>83600</SurfaceArea>
+    <IndepYear>1971</IndepYear>
+    <Population>2441000</Population>
+    <LifeExpectancy>74.1</LifeExpectancy>
+    <GNP>37966</GNP>
+    <GNPOld>36846</GNPOld>
+    <LocalName>Al-Imarat al-Â´Arabiya al-Muttahida</LocalName>
+    <GovernmentForm>Emirate Federation</GovernmentForm>
+    <HeadOfState>Zayid bin Sultan al-Nahayan</HeadOfState>
+    <Capital>65</Capital>
+    <Code2>AE</Code2>
+  </Country>
+  <Country>
+    <Code>ARG</Code>
+    <Name>Argentina</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>2780400</SurfaceArea>
+    <IndepYear>1816</IndepYear>
+    <Population>37032000</Population>
+    <LifeExpectancy>75.1</LifeExpectancy>
+    <GNP>340238</GNP>
+    <GNPOld>323310</GNPOld>
+    <LocalName>Argentina</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Fernando de la RÃºa</HeadOfState>
+    <Capital>69</Capital>
+    <Code2>AR</Code2>
+  </Country>
+  <Country>
+    <Code>ARM</Code>
+    <Name>Armenia</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>29800</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>3520000</Population>
+    <LifeExpectancy>66.4</LifeExpectancy>
+    <GNP>1813</GNP>
+    <GNPOld>1627</GNPOld>
+    <LocalName>Hajastan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Robert KotÂšarjan</HeadOfState>
+    <Capital>126</Capital>
+    <Code2>AM</Code2>
+  </Country>
+  <Country>
+    <Code>ASM</Code>
+    <Name>American Samoa</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>199</SurfaceArea>
+    <IndepYear/>
+    <Population>68000</Population>
+    <LifeExpectancy>75.1</LifeExpectancy>
+    <GNP>334</GNP>
+    <GNPOld/>
+    <LocalName>Amerika Samoa</LocalName>
+    <GovernmentForm>US Territory</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital>54</Capital>
+    <Code2>AS</Code2>
+  </Country>
+  <Country>
+    <Code>ATA</Code>
+    <Name>Antarctica</Name>
+    <Continent>Antarctica</Continent>
+    <Region>Antarctica</Region>
+    <SurfaceArea>13120000</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Â–</LocalName>
+    <GovernmentForm>Co-administrated</GovernmentForm>
+    <HeadOfState></HeadOfState>
+    <Capital/>
+    <Code2>AQ</Code2>
+  </Country>
+  <Country>
+    <Code>ATF</Code>
+    <Name>French Southern territories</Name>
+    <Continent>Antarctica</Continent>
+    <Region>Antarctica</Region>
+    <SurfaceArea>7780</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Terres australes franÃ§aises</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital/>
+    <Code2>TF</Code2>
+  </Country>
+  <Country>
+    <Code>ATG</Code>
+    <Name>Antigua and Barbuda</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>442</SurfaceArea>
+    <IndepYear>1981</IndepYear>
+    <Population>68000</Population>
+    <LifeExpectancy>70.5</LifeExpectancy>
+    <GNP>612</GNP>
+    <GNPOld>584</GNPOld>
+    <LocalName>Antigua and Barbuda</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>63</Capital>
+    <Code2>AG</Code2>
+  </Country>
+  <Country>
+    <Code>AUS</Code>
+    <Name>Australia</Name>
+    <Continent>Oceania</Continent>
+    <Region>Australia and New Zealand</Region>
+    <SurfaceArea>7741220</SurfaceArea>
+    <IndepYear>1901</IndepYear>
+    <Population>18886000</Population>
+    <LifeExpectancy>79.8</LifeExpectancy>
+    <GNP>351182</GNP>
+    <GNPOld>392911</GNPOld>
+    <LocalName>Australia</LocalName>
+    <GovernmentForm>Constitutional Monarchy, Federation</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>135</Capital>
+    <Code2>AU</Code2>
+  </Country>
+  <Country>
+    <Code>AUT</Code>
+    <Name>Austria</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>83859</SurfaceArea>
+    <IndepYear>1918</IndepYear>
+    <Population>8091800</Population>
+    <LifeExpectancy>77.7</LifeExpectancy>
+    <GNP>211860</GNP>
+    <GNPOld>206025</GNPOld>
+    <LocalName>Ã–sterreich</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Thomas Klestil</HeadOfState>
+    <Capital>1523</Capital>
+    <Code2>AT</Code2>
+  </Country>
+  <Country>
+    <Code>AZE</Code>
+    <Name>Azerbaijan</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>86600</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>7734000</Population>
+    <LifeExpectancy>62.9</LifeExpectancy>
+    <GNP>4127</GNP>
+    <GNPOld>4100</GNPOld>
+    <LocalName>AzÃ¤rbaycan</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>HeydÃ¤r Ã„liyev</HeadOfState>
+    <Capital>144</Capital>
+    <Code2>AZ</Code2>
+  </Country>
+  <Country>
+    <Code>BDI</Code>
+    <Name>Burundi</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>27834</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>6695000</Population>
+    <LifeExpectancy>46.2</LifeExpectancy>
+    <GNP>903</GNP>
+    <GNPOld>982</GNPOld>
+    <LocalName>Burundi/Uburundi</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Pierre Buyoya</HeadOfState>
+    <Capital>552</Capital>
+    <Code2>BI</Code2>
+  </Country>
+  <Country>
+    <Code>BEL</Code>
+    <Name>Belgium</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>30518</SurfaceArea>
+    <IndepYear>1830</IndepYear>
+    <Population>10239000</Population>
+    <LifeExpectancy>77.8</LifeExpectancy>
+    <GNP>249704</GNP>
+    <GNPOld>243948</GNPOld>
+    <LocalName>BelgiÃ«/Belgique</LocalName>
+    <GovernmentForm>Constitutional Monarchy, Federation</GovernmentForm>
+    <HeadOfState>Albert II</HeadOfState>
+    <Capital>179</Capital>
+    <Code2>BE</Code2>
+  </Country>
+  <Country>
+    <Code>BEN</Code>
+    <Name>Benin</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>112622</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>6097000</Population>
+    <LifeExpectancy>50.2</LifeExpectancy>
+    <GNP>2357</GNP>
+    <GNPOld>2141</GNPOld>
+    <LocalName>BÃ©nin</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Mathieu KÃ©rÃ©kou</HeadOfState>
+    <Capital>187</Capital>
+    <Code2>BJ</Code2>
+  </Country>
+  <Country>
+    <Code>BFA</Code>
+    <Name>Burkina Faso</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>274000</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>11937000</Population>
+    <LifeExpectancy>46.7</LifeExpectancy>
+    <GNP>2425</GNP>
+    <GNPOld>2201</GNPOld>
+    <LocalName>Burkina Faso</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Blaise CompaorÃ©</HeadOfState>
+    <Capital>549</Capital>
+    <Code2>BF</Code2>
+  </Country>
+  <Country>
+    <Code>BGD</Code>
+    <Name>Bangladesh</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>143998</SurfaceArea>
+    <IndepYear>1971</IndepYear>
+    <Population>129155000</Population>
+    <LifeExpectancy>60.2</LifeExpectancy>
+    <GNP>32852</GNP>
+    <GNPOld>31966</GNPOld>
+    <LocalName>Bangladesh</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Shahabuddin Ahmad</HeadOfState>
+    <Capital>150</Capital>
+    <Code2>BD</Code2>
+  </Country>
+  <Country>
+    <Code>BGR</Code>
+    <Name>Bulgaria</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>110994</SurfaceArea>
+    <IndepYear>1908</IndepYear>
+    <Population>8190900</Population>
+    <LifeExpectancy>70.9</LifeExpectancy>
+    <GNP>12178</GNP>
+    <GNPOld>10169</GNPOld>
+    <LocalName>Balgarija</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Petar Stojanov</HeadOfState>
+    <Capital>539</Capital>
+    <Code2>BG</Code2>
+  </Country>
+  <Country>
+    <Code>BHR</Code>
+    <Name>Bahrain</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>694</SurfaceArea>
+    <IndepYear>1971</IndepYear>
+    <Population>617000</Population>
+    <LifeExpectancy>73</LifeExpectancy>
+    <GNP>6366</GNP>
+    <GNPOld>6097</GNPOld>
+    <LocalName>Al-Bahrayn</LocalName>
+    <GovernmentForm>Monarchy (Emirate)</GovernmentForm>
+    <HeadOfState>Hamad ibn Isa al-Khalifa</HeadOfState>
+    <Capital>149</Capital>
+    <Code2>BH</Code2>
+  </Country>
+  <Country>
+    <Code>BHS</Code>
+    <Name>Bahamas</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>13878</SurfaceArea>
+    <IndepYear>1973</IndepYear>
+    <Population>307000</Population>
+    <LifeExpectancy>71.1</LifeExpectancy>
+    <GNP>3527</GNP>
+    <GNPOld>3347</GNPOld>
+    <LocalName>The Bahamas</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>148</Capital>
+    <Code2>BS</Code2>
+  </Country>
+  <Country>
+    <Code>BIH</Code>
+    <Name>Bosnia and Herzegovina</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>51197</SurfaceArea>
+    <IndepYear>1992</IndepYear>
+    <Population>3972000</Population>
+    <LifeExpectancy>71.5</LifeExpectancy>
+    <GNP>2841</GNP>
+    <GNPOld/>
+    <LocalName>Bosna i Hercegovina</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Ante Jelavic</HeadOfState>
+    <Capital>201</Capital>
+    <Code2>BA</Code2>
+  </Country>
+  <Country>
+    <Code>BLR</Code>
+    <Name>Belarus</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>207600</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>10236000</Population>
+    <LifeExpectancy>68</LifeExpectancy>
+    <GNP>13714</GNP>
+    <GNPOld/>
+    <LocalName>Belarus</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Aljaksandr LukaÂšenka</HeadOfState>
+    <Capital>3520</Capital>
+    <Code2>BY</Code2>
+  </Country>
+  <Country>
+    <Code>BLZ</Code>
+    <Name>Belize</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>22696</SurfaceArea>
+    <IndepYear>1981</IndepYear>
+    <Population>241000</Population>
+    <LifeExpectancy>70.9</LifeExpectancy>
+    <GNP>630</GNP>
+    <GNPOld>616</GNPOld>
+    <LocalName>Belize</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>185</Capital>
+    <Code2>BZ</Code2>
+  </Country>
+  <Country>
+    <Code>BMU</Code>
+    <Name>Bermuda</Name>
+    <Continent>North America</Continent>
+    <Region>North America</Region>
+    <SurfaceArea>53</SurfaceArea>
+    <IndepYear/>
+    <Population>65000</Population>
+    <LifeExpectancy>76.9</LifeExpectancy>
+    <GNP>2328</GNP>
+    <GNPOld>2190</GNPOld>
+    <LocalName>Bermuda</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>191</Capital>
+    <Code2>BM</Code2>
+  </Country>
+  <Country>
+    <Code>BOL</Code>
+    <Name>Bolivia</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>1098581</SurfaceArea>
+    <IndepYear>1825</IndepYear>
+    <Population>8329000</Population>
+    <LifeExpectancy>63.7</LifeExpectancy>
+    <GNP>8571</GNP>
+    <GNPOld>7967</GNPOld>
+    <LocalName>Bolivia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Hugo BÃ¡nzer SuÃ¡rez</HeadOfState>
+    <Capital>194</Capital>
+    <Code2>BO</Code2>
+  </Country>
+  <Country>
+    <Code>BRA</Code>
+    <Name>Brazil</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>8547403</SurfaceArea>
+    <IndepYear>1822</IndepYear>
+    <Population>170115000</Population>
+    <LifeExpectancy>62.9</LifeExpectancy>
+    <GNP>776739</GNP>
+    <GNPOld>804108</GNPOld>
+    <LocalName>Brasil</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Fernando Henrique Cardoso</HeadOfState>
+    <Capital>211</Capital>
+    <Code2>BR</Code2>
+  </Country>
+  <Country>
+    <Code>BRB</Code>
+    <Name>Barbados</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>430</SurfaceArea>
+    <IndepYear>1966</IndepYear>
+    <Population>270000</Population>
+    <LifeExpectancy>73</LifeExpectancy>
+    <GNP>2223</GNP>
+    <GNPOld>2186</GNPOld>
+    <LocalName>Barbados</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>174</Capital>
+    <Code2>BB</Code2>
+  </Country>
+  <Country>
+    <Code>BRN</Code>
+    <Name>Brunei</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>5765</SurfaceArea>
+    <IndepYear>1984</IndepYear>
+    <Population>328000</Population>
+    <LifeExpectancy>73.6</LifeExpectancy>
+    <GNP>11705</GNP>
+    <GNPOld>12460</GNPOld>
+    <LocalName>Brunei Darussalam</LocalName>
+    <GovernmentForm>Monarchy (Sultanate)</GovernmentForm>
+    <HeadOfState>Haji Hassan al-Bolkiah</HeadOfState>
+    <Capital>538</Capital>
+    <Code2>BN</Code2>
+  </Country>
+  <Country>
+    <Code>BTN</Code>
+    <Name>Bhutan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>47000</SurfaceArea>
+    <IndepYear>1910</IndepYear>
+    <Population>2124000</Population>
+    <LifeExpectancy>52.4</LifeExpectancy>
+    <GNP>372</GNP>
+    <GNPOld>383</GNPOld>
+    <LocalName>Druk-Yul</LocalName>
+    <GovernmentForm>Monarchy</GovernmentForm>
+    <HeadOfState>Jigme Singye Wangchuk</HeadOfState>
+    <Capital>192</Capital>
+    <Code2>BT</Code2>
+  </Country>
+  <Country>
+    <Code>BVT</Code>
+    <Name>Bouvet Island</Name>
+    <Continent>Antarctica</Continent>
+    <Region>Antarctica</Region>
+    <SurfaceArea>59</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>BouvetÃ¸ya</LocalName>
+    <GovernmentForm>Dependent Territory of Norway</GovernmentForm>
+    <HeadOfState>Harald V</HeadOfState>
+    <Capital/>
+    <Code2>BV</Code2>
+  </Country>
+  <Country>
+    <Code>BWA</Code>
+    <Name>Botswana</Name>
+    <Continent>Africa</Continent>
+    <Region>Southern Africa</Region>
+    <SurfaceArea>581730</SurfaceArea>
+    <IndepYear>1966</IndepYear>
+    <Population>1622000</Population>
+    <LifeExpectancy>39.3</LifeExpectancy>
+    <GNP>4834</GNP>
+    <GNPOld>4935</GNPOld>
+    <LocalName>Botswana</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Festus G. Mogae</HeadOfState>
+    <Capital>204</Capital>
+    <Code2>BW</Code2>
+  </Country>
+  <Country>
+    <Code>CAF</Code>
+    <Name>Central African Republic</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>622984</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>3615000</Population>
+    <LifeExpectancy>44</LifeExpectancy>
+    <GNP>1054</GNP>
+    <GNPOld>993</GNPOld>
+    <LocalName>Centrafrique/BÃª-AfrÃ®ka</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ange-FÃ©lix PatassÃ©</HeadOfState>
+    <Capital>1889</Capital>
+    <Code2>CF</Code2>
+  </Country>
+  <Country>
+    <Code>CAN</Code>
+    <Name>Canada</Name>
+    <Continent>North America</Continent>
+    <Region>North America</Region>
+    <SurfaceArea>9970610</SurfaceArea>
+    <IndepYear>1867</IndepYear>
+    <Population>31147000</Population>
+    <LifeExpectancy>79.4</LifeExpectancy>
+    <GNP>598862</GNP>
+    <GNPOld>625626</GNPOld>
+    <LocalName>Canada</LocalName>
+    <GovernmentForm>Constitutional Monarchy, Federation</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>1822</Capital>
+    <Code2>CA</Code2>
+  </Country>
+  <Country>
+    <Code>CCK</Code>
+    <Name>Cocos (Keeling) Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Australia and New Zealand</Region>
+    <SurfaceArea>14</SurfaceArea>
+    <IndepYear/>
+    <Population>600</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Cocos (Keeling) Islands</LocalName>
+    <GovernmentForm>Territory of Australia</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>2317</Capital>
+    <Code2>CC</Code2>
+  </Country>
+  <Country>
+    <Code>CHE</Code>
+    <Name>Switzerland</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>41284</SurfaceArea>
+    <IndepYear>1499</IndepYear>
+    <Population>7160400</Population>
+    <LifeExpectancy>79.6</LifeExpectancy>
+    <GNP>264478</GNP>
+    <GNPOld>256092</GNPOld>
+    <LocalName>Schweiz/Suisse/Svizzera/Svizra</LocalName>
+    <GovernmentForm>Federation</GovernmentForm>
+    <HeadOfState>Adolf Ogi</HeadOfState>
+    <Capital>3248</Capital>
+    <Code2>CH</Code2>
+  </Country>
+  <Country>
+    <Code>CHL</Code>
+    <Name>Chile</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>756626</SurfaceArea>
+    <IndepYear>1810</IndepYear>
+    <Population>15211000</Population>
+    <LifeExpectancy>75.7</LifeExpectancy>
+    <GNP>72949</GNP>
+    <GNPOld>75780</GNPOld>
+    <LocalName>Chile</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ricardo Lagos Escobar</HeadOfState>
+    <Capital>554</Capital>
+    <Code2>CL</Code2>
+  </Country>
+  <Country>
+    <Code>CHN</Code>
+    <Name>China</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>9572900</SurfaceArea>
+    <IndepYear>-1523</IndepYear>
+    <Population>1277558000</Population>
+    <LifeExpectancy>71.4</LifeExpectancy>
+    <GNP>982268</GNP>
+    <GNPOld>917719</GNPOld>
+    <LocalName>Zhongquo</LocalName>
+    <GovernmentForm>People&#x27;sRepublic</GovernmentForm>
+    <HeadOfState>Jiang Zemin</HeadOfState>
+    <Capital>1891</Capital>
+    <Code2>CN</Code2>
+  </Country>
+  <Country>
+    <Code>CIV</Code>
+    <Name>CÃ´te dÂ’Ivoire</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>322463</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>14786000</Population>
+    <LifeExpectancy>45.2</LifeExpectancy>
+    <GNP>11345</GNP>
+    <GNPOld>10285</GNPOld>
+    <LocalName>CÃ´te dÂ’Ivoire</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Laurent Gbagbo</HeadOfState>
+    <Capital>2814</Capital>
+    <Code2>CI</Code2>
+  </Country>
+  <Country>
+    <Code>CMR</Code>
+    <Name>Cameroon</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>475442</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>15085000</Population>
+    <LifeExpectancy>54.8</LifeExpectancy>
+    <GNP>9174</GNP>
+    <GNPOld>8596</GNPOld>
+    <LocalName>Cameroun/Cameroon</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Paul Biya</HeadOfState>
+    <Capital>1804</Capital>
+    <Code2>CM</Code2>
+  </Country>
+  <Country>
+    <Code>COD</Code>
+    <Name>Congo, The Democratic Republic of the</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>2344858</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>51654000</Population>
+    <LifeExpectancy>48.8</LifeExpectancy>
+    <GNP>6964</GNP>
+    <GNPOld>2474</GNPOld>
+    <LocalName>RÃ©publique DÃ©mocratique du Congo</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Joseph Kabila</HeadOfState>
+    <Capital>2298</Capital>
+    <Code2>CD</Code2>
+  </Country>
+  <Country>
+    <Code>COG</Code>
+    <Name>Congo</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>342000</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>2943000</Population>
+    <LifeExpectancy>47.4</LifeExpectancy>
+    <GNP>2108</GNP>
+    <GNPOld>2287</GNPOld>
+    <LocalName>Congo</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Denis Sassou-Nguesso</HeadOfState>
+    <Capital>2296</Capital>
+    <Code2>CG</Code2>
+  </Country>
+  <Country>
+    <Code>COK</Code>
+    <Name>Cook Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>236</SurfaceArea>
+    <IndepYear/>
+    <Population>20000</Population>
+    <LifeExpectancy>71.1</LifeExpectancy>
+    <GNP>100</GNP>
+    <GNPOld/>
+    <LocalName>The Cook Islands</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of New Zealand</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>583</Capital>
+    <Code2>CK</Code2>
+  </Country>
+  <Country>
+    <Code>COL</Code>
+    <Name>Colombia</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>1138914</SurfaceArea>
+    <IndepYear>1810</IndepYear>
+    <Population>42321000</Population>
+    <LifeExpectancy>70.3</LifeExpectancy>
+    <GNP>102896</GNP>
+    <GNPOld>105116</GNPOld>
+    <LocalName>Colombia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>AndrÃ©s Pastrana Arango</HeadOfState>
+    <Capital>2257</Capital>
+    <Code2>CO</Code2>
+  </Country>
+  <Country>
+    <Code>COM</Code>
+    <Name>Comoros</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>1862</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>578000</Population>
+    <LifeExpectancy>60</LifeExpectancy>
+    <GNP>4401</GNP>
+    <GNPOld>4361</GNPOld>
+    <LocalName>Komori/Comores</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Azali Assoumani</HeadOfState>
+    <Capital>2295</Capital>
+    <Code2>KM</Code2>
+  </Country>
+  <Country>
+    <Code>CPV</Code>
+    <Name>Cape Verde</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>4033</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>428000</Population>
+    <LifeExpectancy>68.9</LifeExpectancy>
+    <GNP>435</GNP>
+    <GNPOld>420</GNPOld>
+    <LocalName>Cabo Verde</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>AntÃ³nio Mascarenhas Monteiro</HeadOfState>
+    <Capital>1859</Capital>
+    <Code2>CV</Code2>
+  </Country>
+  <Country>
+    <Code>CRI</Code>
+    <Name>Costa Rica</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>51100</SurfaceArea>
+    <IndepYear>1821</IndepYear>
+    <Population>4023000</Population>
+    <LifeExpectancy>75.8</LifeExpectancy>
+    <GNP>10226</GNP>
+    <GNPOld>9757</GNPOld>
+    <LocalName>Costa Rica</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Miguel Ãngel RodrÃ­guez EcheverrÃ­a</HeadOfState>
+    <Capital>584</Capital>
+    <Code2>CR</Code2>
+  </Country>
+  <Country>
+    <Code>CUB</Code>
+    <Name>Cuba</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>110861</SurfaceArea>
+    <IndepYear>1902</IndepYear>
+    <Population>11201000</Population>
+    <LifeExpectancy>76.2</LifeExpectancy>
+    <GNP>17843</GNP>
+    <GNPOld>18862</GNPOld>
+    <LocalName>Cuba</LocalName>
+    <GovernmentForm>Socialistic Republic</GovernmentForm>
+    <HeadOfState>Fidel Castro Ruz</HeadOfState>
+    <Capital>2413</Capital>
+    <Code2>CU</Code2>
+  </Country>
+  <Country>
+    <Code>CXR</Code>
+    <Name>Christmas Island</Name>
+    <Continent>Oceania</Continent>
+    <Region>Australia and New Zealand</Region>
+    <SurfaceArea>135</SurfaceArea>
+    <IndepYear/>
+    <Population>2500</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Christmas Island</LocalName>
+    <GovernmentForm>Territory of Australia</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>1791</Capital>
+    <Code2>CX</Code2>
+  </Country>
+  <Country>
+    <Code>CYM</Code>
+    <Name>Cayman Islands</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>264</SurfaceArea>
+    <IndepYear/>
+    <Population>38000</Population>
+    <LifeExpectancy>78.9</LifeExpectancy>
+    <GNP>1263</GNP>
+    <GNPOld>1186</GNPOld>
+    <LocalName>Cayman Islands</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>553</Capital>
+    <Code2>KY</Code2>
+  </Country>
+  <Country>
+    <Code>CYP</Code>
+    <Name>Cyprus</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>9251</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>754700</Population>
+    <LifeExpectancy>76.7</LifeExpectancy>
+    <GNP>9333</GNP>
+    <GNPOld>8246</GNPOld>
+    <LocalName>KÃ½pros/Kibris</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Glafkos Klerides</HeadOfState>
+    <Capital>2430</Capital>
+    <Code2>CY</Code2>
+  </Country>
+  <Country>
+    <Code>CZE</Code>
+    <Name>Czech Republic</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>78866</SurfaceArea>
+    <IndepYear>1993</IndepYear>
+    <Population>10278100</Population>
+    <LifeExpectancy>74.5</LifeExpectancy>
+    <GNP>55017</GNP>
+    <GNPOld>52037</GNPOld>
+    <LocalName>Â¸esko</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>VÃ¡clav Havel</HeadOfState>
+    <Capital>3339</Capital>
+    <Code2>CZ</Code2>
+  </Country>
+  <Country>
+    <Code>DEU</Code>
+    <Name>Germany</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>357022</SurfaceArea>
+    <IndepYear>1955</IndepYear>
+    <Population>82164700</Population>
+    <LifeExpectancy>77.4</LifeExpectancy>
+    <GNP>2133367</GNP>
+    <GNPOld>2102826</GNPOld>
+    <LocalName>Deutschland</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Johannes Rau</HeadOfState>
+    <Capital>3068</Capital>
+    <Code2>DE</Code2>
+  </Country>
+  <Country>
+    <Code>DJI</Code>
+    <Name>Djibouti</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>23200</SurfaceArea>
+    <IndepYear>1977</IndepYear>
+    <Population>638000</Population>
+    <LifeExpectancy>50.8</LifeExpectancy>
+    <GNP>382</GNP>
+    <GNPOld>373</GNPOld>
+    <LocalName>Djibouti/Jibuti</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ismail Omar Guelleh</HeadOfState>
+    <Capital>585</Capital>
+    <Code2>DJ</Code2>
+  </Country>
+  <Country>
+    <Code>DMA</Code>
+    <Name>Dominica</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>751</SurfaceArea>
+    <IndepYear>1978</IndepYear>
+    <Population>71000</Population>
+    <LifeExpectancy>73.4</LifeExpectancy>
+    <GNP>256</GNP>
+    <GNPOld>243</GNPOld>
+    <LocalName>Dominica</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Vernon Shaw</HeadOfState>
+    <Capital>586</Capital>
+    <Code2>DM</Code2>
+  </Country>
+  <Country>
+    <Code>DNK</Code>
+    <Name>Denmark</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>43094</SurfaceArea>
+    <IndepYear>800</IndepYear>
+    <Population>5330000</Population>
+    <LifeExpectancy>76.5</LifeExpectancy>
+    <GNP>174099</GNP>
+    <GNPOld>169264</GNPOld>
+    <LocalName>Danmark</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Margrethe II</HeadOfState>
+    <Capital>3315</Capital>
+    <Code2>DK</Code2>
+  </Country>
+  <Country>
+    <Code>DOM</Code>
+    <Name>Dominican Republic</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>48511</SurfaceArea>
+    <IndepYear>1844</IndepYear>
+    <Population>8495000</Population>
+    <LifeExpectancy>73.2</LifeExpectancy>
+    <GNP>15846</GNP>
+    <GNPOld>15076</GNPOld>
+    <LocalName>RepÃºblica Dominicana</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>HipÃ³lito MejÃ­a DomÃ­nguez</HeadOfState>
+    <Capital>587</Capital>
+    <Code2>DO</Code2>
+  </Country>
+  <Country>
+    <Code>DZA</Code>
+    <Name>Algeria</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>2381741</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>31471000</Population>
+    <LifeExpectancy>69.7</LifeExpectancy>
+    <GNP>49982</GNP>
+    <GNPOld>46966</GNPOld>
+    <LocalName>Al-JazaÂ’ir/AlgÃ©rie</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Abdelaziz Bouteflika</HeadOfState>
+    <Capital>35</Capital>
+    <Code2>DZ</Code2>
+  </Country>
+  <Country>
+    <Code>ECU</Code>
+    <Name>Ecuador</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>283561</SurfaceArea>
+    <IndepYear>1822</IndepYear>
+    <Population>12646000</Population>
+    <LifeExpectancy>71.1</LifeExpectancy>
+    <GNP>19770</GNP>
+    <GNPOld>19769</GNPOld>
+    <LocalName>Ecuador</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Gustavo Noboa Bejarano</HeadOfState>
+    <Capital>594</Capital>
+    <Code2>EC</Code2>
+  </Country>
+  <Country>
+    <Code>EGY</Code>
+    <Name>Egypt</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>1001449</SurfaceArea>
+    <IndepYear>1922</IndepYear>
+    <Population>68470000</Population>
+    <LifeExpectancy>63.3</LifeExpectancy>
+    <GNP>82710</GNP>
+    <GNPOld>75617</GNPOld>
+    <LocalName>Misr</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Hosni Mubarak</HeadOfState>
+    <Capital>608</Capital>
+    <Code2>EG</Code2>
+  </Country>
+  <Country>
+    <Code>ERI</Code>
+    <Name>Eritrea</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>117600</SurfaceArea>
+    <IndepYear>1993</IndepYear>
+    <Population>3850000</Population>
+    <LifeExpectancy>55.8</LifeExpectancy>
+    <GNP>650</GNP>
+    <GNPOld>755</GNPOld>
+    <LocalName>Ertra</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Isayas Afewerki [Isaias Afwerki]</HeadOfState>
+    <Capital>652</Capital>
+    <Code2>ER</Code2>
+  </Country>
+  <Country>
+    <Code>ESH</Code>
+    <Name>Western Sahara</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>266000</SurfaceArea>
+    <IndepYear/>
+    <Population>293000</Population>
+    <LifeExpectancy>49.8</LifeExpectancy>
+    <GNP>60</GNP>
+    <GNPOld/>
+    <LocalName>As-Sahrawiya</LocalName>
+    <GovernmentForm>Occupied by Marocco</GovernmentForm>
+    <HeadOfState>Mohammed Abdel Aziz</HeadOfState>
+    <Capital>2453</Capital>
+    <Code2>EH</Code2>
+  </Country>
+  <Country>
+    <Code>ESP</Code>
+    <Name>Spain</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>505992</SurfaceArea>
+    <IndepYear>1492</IndepYear>
+    <Population>39441700</Population>
+    <LifeExpectancy>78.8</LifeExpectancy>
+    <GNP>553233</GNP>
+    <GNPOld>532031</GNPOld>
+    <LocalName>EspaÃ±a</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Juan Carlos I</HeadOfState>
+    <Capital>653</Capital>
+    <Code2>ES</Code2>
+  </Country>
+  <Country>
+    <Code>EST</Code>
+    <Name>Estonia</Name>
+    <Continent>Europe</Continent>
+    <Region>Baltic Countries</Region>
+    <SurfaceArea>45227</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>1439200</Population>
+    <LifeExpectancy>69.5</LifeExpectancy>
+    <GNP>5328</GNP>
+    <GNPOld>3371</GNPOld>
+    <LocalName>Eesti</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Lennart Meri</HeadOfState>
+    <Capital>3791</Capital>
+    <Code2>EE</Code2>
+  </Country>
+  <Country>
+    <Code>ETH</Code>
+    <Name>Ethiopia</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>1104300</SurfaceArea>
+    <IndepYear>-1000</IndepYear>
+    <Population>62565000</Population>
+    <LifeExpectancy>45.2</LifeExpectancy>
+    <GNP>6353</GNP>
+    <GNPOld>6180</GNPOld>
+    <LocalName>YeItyopÂ´iya</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Negasso Gidada</HeadOfState>
+    <Capital>756</Capital>
+    <Code2>ET</Code2>
+  </Country>
+  <Country>
+    <Code>FIN</Code>
+    <Name>Finland</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>338145</SurfaceArea>
+    <IndepYear>1917</IndepYear>
+    <Population>5171300</Population>
+    <LifeExpectancy>77.4</LifeExpectancy>
+    <GNP>121914</GNP>
+    <GNPOld>119833</GNPOld>
+    <LocalName>Suomi</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Tarja Halonen</HeadOfState>
+    <Capital>3236</Capital>
+    <Code2>FI</Code2>
+  </Country>
+  <Country>
+    <Code>FJI</Code>
+    <Name>Fiji Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Melanesia</Region>
+    <SurfaceArea>18274</SurfaceArea>
+    <IndepYear>1970</IndepYear>
+    <Population>817000</Population>
+    <LifeExpectancy>67.9</LifeExpectancy>
+    <GNP>1536</GNP>
+    <GNPOld>2149</GNPOld>
+    <LocalName>Fiji Islands</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Josefa Iloilo</HeadOfState>
+    <Capital>764</Capital>
+    <Code2>FJ</Code2>
+  </Country>
+  <Country>
+    <Code>FLK</Code>
+    <Name>Falkland Islands</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>12173</SurfaceArea>
+    <IndepYear/>
+    <Population>2000</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Falkland Islands</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>763</Capital>
+    <Code2>FK</Code2>
+  </Country>
+  <Country>
+    <Code>FRA</Code>
+    <Name>France</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>551500</SurfaceArea>
+    <IndepYear>843</IndepYear>
+    <Population>59225700</Population>
+    <LifeExpectancy>78.8</LifeExpectancy>
+    <GNP>1424285</GNP>
+    <GNPOld>1392448</GNPOld>
+    <LocalName>France</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>2974</Capital>
+    <Code2>FR</Code2>
+  </Country>
+  <Country>
+    <Code>FRO</Code>
+    <Name>Faroe Islands</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>1399</SurfaceArea>
+    <IndepYear/>
+    <Population>43000</Population>
+    <LifeExpectancy>78.4</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>FÃ¸royar</LocalName>
+    <GovernmentForm>Part of Denmark</GovernmentForm>
+    <HeadOfState>Margrethe II</HeadOfState>
+    <Capital>901</Capital>
+    <Code2>FO</Code2>
+  </Country>
+  <Country>
+    <Code>FSM</Code>
+    <Name>Micronesia, Federated States of</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>702</SurfaceArea>
+    <IndepYear>1990</IndepYear>
+    <Population>119000</Population>
+    <LifeExpectancy>68.6</LifeExpectancy>
+    <GNP>212</GNP>
+    <GNPOld/>
+    <LocalName>Micronesia</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Leo A. Falcam</HeadOfState>
+    <Capital>2689</Capital>
+    <Code2>FM</Code2>
+  </Country>
+  <Country>
+    <Code>GAB</Code>
+    <Name>Gabon</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>267668</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>1226000</Population>
+    <LifeExpectancy>50.1</LifeExpectancy>
+    <GNP>5493</GNP>
+    <GNPOld>5279</GNPOld>
+    <LocalName>Le Gabon</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Omar Bongo</HeadOfState>
+    <Capital>902</Capital>
+    <Code2>GA</Code2>
+  </Country>
+  <Country>
+    <Code>GBR</Code>
+    <Name>United Kingdom</Name>
+    <Continent>Europe</Continent>
+    <Region>British Islands</Region>
+    <SurfaceArea>242900</SurfaceArea>
+    <IndepYear>1066</IndepYear>
+    <Population>59623400</Population>
+    <LifeExpectancy>77.7</LifeExpectancy>
+    <GNP>1378330</GNP>
+    <GNPOld>1296830</GNPOld>
+    <LocalName>United Kingdom</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>456</Capital>
+    <Code2>GB</Code2>
+  </Country>
+  <Country>
+    <Code>GEO</Code>
+    <Name>Georgia</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>69700</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>4968000</Population>
+    <LifeExpectancy>64.5</LifeExpectancy>
+    <GNP>6064</GNP>
+    <GNPOld>5924</GNPOld>
+    <LocalName>Sakartvelo</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Eduard ÂŠevardnadze</HeadOfState>
+    <Capital>905</Capital>
+    <Code2>GE</Code2>
+  </Country>
+  <Country>
+    <Code>GHA</Code>
+    <Name>Ghana</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>238533</SurfaceArea>
+    <IndepYear>1957</IndepYear>
+    <Population>20212000</Population>
+    <LifeExpectancy>57.4</LifeExpectancy>
+    <GNP>7137</GNP>
+    <GNPOld>6884</GNPOld>
+    <LocalName>Ghana</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>John Kufuor</HeadOfState>
+    <Capital>910</Capital>
+    <Code2>GH</Code2>
+  </Country>
+  <Country>
+    <Code>GIB</Code>
+    <Name>Gibraltar</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>6</SurfaceArea>
+    <IndepYear/>
+    <Population>25000</Population>
+    <LifeExpectancy>79</LifeExpectancy>
+    <GNP>258</GNP>
+    <GNPOld/>
+    <LocalName>Gibraltar</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>915</Capital>
+    <Code2>GI</Code2>
+  </Country>
+  <Country>
+    <Code>GIN</Code>
+    <Name>Guinea</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>245857</SurfaceArea>
+    <IndepYear>1958</IndepYear>
+    <Population>7430000</Population>
+    <LifeExpectancy>45.6</LifeExpectancy>
+    <GNP>2352</GNP>
+    <GNPOld>2383</GNPOld>
+    <LocalName>GuinÃ©e</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Lansana ContÃ©</HeadOfState>
+    <Capital>926</Capital>
+    <Code2>GN</Code2>
+  </Country>
+  <Country>
+    <Code>GLP</Code>
+    <Name>Guadeloupe</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>1705</SurfaceArea>
+    <IndepYear/>
+    <Population>456000</Population>
+    <LifeExpectancy>77</LifeExpectancy>
+    <GNP>3501</GNP>
+    <GNPOld/>
+    <LocalName>Guadeloupe</LocalName>
+    <GovernmentForm>Overseas Department of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>919</Capital>
+    <Code2>GP</Code2>
+  </Country>
+  <Country>
+    <Code>GMB</Code>
+    <Name>Gambia</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>11295</SurfaceArea>
+    <IndepYear>1965</IndepYear>
+    <Population>1305000</Population>
+    <LifeExpectancy>53.2</LifeExpectancy>
+    <GNP>320</GNP>
+    <GNPOld>325</GNPOld>
+    <LocalName>The Gambia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Yahya Jammeh</HeadOfState>
+    <Capital>904</Capital>
+    <Code2>GM</Code2>
+  </Country>
+  <Country>
+    <Code>GNB</Code>
+    <Name>Guinea-Bissau</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>36125</SurfaceArea>
+    <IndepYear>1974</IndepYear>
+    <Population>1213000</Population>
+    <LifeExpectancy>49</LifeExpectancy>
+    <GNP>293</GNP>
+    <GNPOld>272</GNPOld>
+    <LocalName>GuinÃ©-Bissau</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Kumba IalÃ¡</HeadOfState>
+    <Capital>927</Capital>
+    <Code2>GW</Code2>
+  </Country>
+  <Country>
+    <Code>GNQ</Code>
+    <Name>Equatorial Guinea</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>28051</SurfaceArea>
+    <IndepYear>1968</IndepYear>
+    <Population>453000</Population>
+    <LifeExpectancy>53.6</LifeExpectancy>
+    <GNP>283</GNP>
+    <GNPOld>542</GNPOld>
+    <LocalName>Guinea Ecuatorial</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Teodoro Obiang Nguema Mbasogo</HeadOfState>
+    <Capital>2972</Capital>
+    <Code2>GQ</Code2>
+  </Country>
+  <Country>
+    <Code>GRC</Code>
+    <Name>Greece</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>131626</SurfaceArea>
+    <IndepYear>1830</IndepYear>
+    <Population>10545700</Population>
+    <LifeExpectancy>78.4</LifeExpectancy>
+    <GNP>120724</GNP>
+    <GNPOld>119946</GNPOld>
+    <LocalName>EllÃ¡da</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Kostis Stefanopoulos</HeadOfState>
+    <Capital>2401</Capital>
+    <Code2>GR</Code2>
+  </Country>
+  <Country>
+    <Code>GRD</Code>
+    <Name>Grenada</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>344</SurfaceArea>
+    <IndepYear>1974</IndepYear>
+    <Population>94000</Population>
+    <LifeExpectancy>64.5</LifeExpectancy>
+    <GNP>318</GNP>
+    <GNPOld/>
+    <LocalName>Grenada</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>916</Capital>
+    <Code2>GD</Code2>
+  </Country>
+  <Country>
+    <Code>GRL</Code>
+    <Name>Greenland</Name>
+    <Continent>North America</Continent>
+    <Region>North America</Region>
+    <SurfaceArea>2166090</SurfaceArea>
+    <IndepYear/>
+    <Population>56000</Population>
+    <LifeExpectancy>68.1</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Kalaallit Nunaat/GrÃ¸nland</LocalName>
+    <GovernmentForm>Part of Denmark</GovernmentForm>
+    <HeadOfState>Margrethe II</HeadOfState>
+    <Capital>917</Capital>
+    <Code2>GL</Code2>
+  </Country>
+  <Country>
+    <Code>GTM</Code>
+    <Name>Guatemala</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>108889</SurfaceArea>
+    <IndepYear>1821</IndepYear>
+    <Population>11385000</Population>
+    <LifeExpectancy>66.2</LifeExpectancy>
+    <GNP>19008</GNP>
+    <GNPOld>17797</GNPOld>
+    <LocalName>Guatemala</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Alfonso Portillo Cabrera</HeadOfState>
+    <Capital>922</Capital>
+    <Code2>GT</Code2>
+  </Country>
+  <Country>
+    <Code>GUF</Code>
+    <Name>French Guiana</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>90000</SurfaceArea>
+    <IndepYear/>
+    <Population>181000</Population>
+    <LifeExpectancy>76.1</LifeExpectancy>
+    <GNP>681</GNP>
+    <GNPOld/>
+    <LocalName>Guyane franÃ§aise</LocalName>
+    <GovernmentForm>Overseas Department of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>3014</Capital>
+    <Code2>GF</Code2>
+  </Country>
+  <Country>
+    <Code>GUM</Code>
+    <Name>Guam</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>549</SurfaceArea>
+    <IndepYear/>
+    <Population>168000</Population>
+    <LifeExpectancy>77.8</LifeExpectancy>
+    <GNP>1197</GNP>
+    <GNPOld>1136</GNPOld>
+    <LocalName>Guam</LocalName>
+    <GovernmentForm>US Territory</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital>921</Capital>
+    <Code2>GU</Code2>
+  </Country>
+  <Country>
+    <Code>GUY</Code>
+    <Name>Guyana</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>214969</SurfaceArea>
+    <IndepYear>1966</IndepYear>
+    <Population>861000</Population>
+    <LifeExpectancy>64</LifeExpectancy>
+    <GNP>722</GNP>
+    <GNPOld>743</GNPOld>
+    <LocalName>Guyana</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Bharrat Jagdeo</HeadOfState>
+    <Capital>928</Capital>
+    <Code2>GY</Code2>
+  </Country>
+  <Country>
+    <Code>HKG</Code>
+    <Name>Hong Kong</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>1075</SurfaceArea>
+    <IndepYear/>
+    <Population>6782000</Population>
+    <LifeExpectancy>79.5</LifeExpectancy>
+    <GNP>166448</GNP>
+    <GNPOld>173610</GNPOld>
+    <LocalName>Xianggang/Hong Kong</LocalName>
+    <GovernmentForm>Special Administrative Region of China</GovernmentForm>
+    <HeadOfState>Jiang Zemin</HeadOfState>
+    <Capital>937</Capital>
+    <Code2>HK</Code2>
+  </Country>
+  <Country>
+    <Code>HMD</Code>
+    <Name>Heard Island and McDonald Islands</Name>
+    <Continent>Antarctica</Continent>
+    <Region>Antarctica</Region>
+    <SurfaceArea>359</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Heard and McDonald Islands</LocalName>
+    <GovernmentForm>Territory of Australia</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital/>
+    <Code2>HM</Code2>
+  </Country>
+  <Country>
+    <Code>HND</Code>
+    <Name>Honduras</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>112088</SurfaceArea>
+    <IndepYear>1838</IndepYear>
+    <Population>6485000</Population>
+    <LifeExpectancy>69.9</LifeExpectancy>
+    <GNP>5333</GNP>
+    <GNPOld>4697</GNPOld>
+    <LocalName>Honduras</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Carlos Roberto Flores FacussÃ©</HeadOfState>
+    <Capital>933</Capital>
+    <Code2>HN</Code2>
+  </Country>
+  <Country>
+    <Code>HRV</Code>
+    <Name>Croatia</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>56538</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>4473000</Population>
+    <LifeExpectancy>73.7</LifeExpectancy>
+    <GNP>20208</GNP>
+    <GNPOld>19300</GNPOld>
+    <LocalName>Hrvatska</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>ÂŠtipe Mesic</HeadOfState>
+    <Capital>2409</Capital>
+    <Code2>HR</Code2>
+  </Country>
+  <Country>
+    <Code>HTI</Code>
+    <Name>Haiti</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>27750</SurfaceArea>
+    <IndepYear>1804</IndepYear>
+    <Population>8222000</Population>
+    <LifeExpectancy>49.2</LifeExpectancy>
+    <GNP>3459</GNP>
+    <GNPOld>3107</GNPOld>
+    <LocalName>HaÃ¯ti/Dayti</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Jean-Bertrand Aristide</HeadOfState>
+    <Capital>929</Capital>
+    <Code2>HT</Code2>
+  </Country>
+  <Country>
+    <Code>HUN</Code>
+    <Name>Hungary</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>93030</SurfaceArea>
+    <IndepYear>1918</IndepYear>
+    <Population>10043200</Population>
+    <LifeExpectancy>71.4</LifeExpectancy>
+    <GNP>48267</GNP>
+    <GNPOld>45914</GNPOld>
+    <LocalName>MagyarorszÃ¡g</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ferenc MÃ¡dl</HeadOfState>
+    <Capital>3483</Capital>
+    <Code2>HU</Code2>
+  </Country>
+  <Country>
+    <Code>IDN</Code>
+    <Name>Indonesia</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>1904569</SurfaceArea>
+    <IndepYear>1945</IndepYear>
+    <Population>212107000</Population>
+    <LifeExpectancy>68</LifeExpectancy>
+    <GNP>84982</GNP>
+    <GNPOld>215002</GNPOld>
+    <LocalName>Indonesia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Abdurrahman Wahid</HeadOfState>
+    <Capital>939</Capital>
+    <Code2>ID</Code2>
+  </Country>
+  <Country>
+    <Code>IND</Code>
+    <Name>India</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>3287263</SurfaceArea>
+    <IndepYear>1947</IndepYear>
+    <Population>1013662000</Population>
+    <LifeExpectancy>62.5</LifeExpectancy>
+    <GNP>447114</GNP>
+    <GNPOld>430572</GNPOld>
+    <LocalName>Bharat/India</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Kocheril Raman Narayanan</HeadOfState>
+    <Capital>1109</Capital>
+    <Code2>IN</Code2>
+  </Country>
+  <Country>
+    <Code>IOT</Code>
+    <Name>British Indian Ocean Territory</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>78</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>British Indian Ocean Territory</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital/>
+    <Code2>IO</Code2>
+  </Country>
+  <Country>
+    <Code>IRL</Code>
+    <Name>Ireland</Name>
+    <Continent>Europe</Continent>
+    <Region>British Islands</Region>
+    <SurfaceArea>70273</SurfaceArea>
+    <IndepYear>1921</IndepYear>
+    <Population>3775100</Population>
+    <LifeExpectancy>76.8</LifeExpectancy>
+    <GNP>75921</GNP>
+    <GNPOld>73132</GNPOld>
+    <LocalName>Ireland/Ã‰ire</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Mary McAleese</HeadOfState>
+    <Capital>1447</Capital>
+    <Code2>IE</Code2>
+  </Country>
+  <Country>
+    <Code>IRN</Code>
+    <Name>Iran</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>1648195</SurfaceArea>
+    <IndepYear>1906</IndepYear>
+    <Population>67702000</Population>
+    <LifeExpectancy>69.7</LifeExpectancy>
+    <GNP>195746</GNP>
+    <GNPOld>160151</GNPOld>
+    <LocalName>Iran</LocalName>
+    <GovernmentForm>Islamic Republic</GovernmentForm>
+    <HeadOfState>Ali Mohammad Khatami-Ardakani</HeadOfState>
+    <Capital>1380</Capital>
+    <Code2>IR</Code2>
+  </Country>
+  <Country>
+    <Code>IRQ</Code>
+    <Name>Iraq</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>438317</SurfaceArea>
+    <IndepYear>1932</IndepYear>
+    <Population>23115000</Population>
+    <LifeExpectancy>66.5</LifeExpectancy>
+    <GNP>11500</GNP>
+    <GNPOld/>
+    <LocalName>Al-Â´Iraq</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Saddam Hussein al-Takriti</HeadOfState>
+    <Capital>1365</Capital>
+    <Code2>IQ</Code2>
+  </Country>
+  <Country>
+    <Code>ISL</Code>
+    <Name>Iceland</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>103000</SurfaceArea>
+    <IndepYear>1944</IndepYear>
+    <Population>279000</Population>
+    <LifeExpectancy>79.4</LifeExpectancy>
+    <GNP>8255</GNP>
+    <GNPOld>7474</GNPOld>
+    <LocalName>Ãsland</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ã“lafur Ragnar GrÃ­msson</HeadOfState>
+    <Capital>1449</Capital>
+    <Code2>IS</Code2>
+  </Country>
+  <Country>
+    <Code>ISR</Code>
+    <Name>Israel</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>21056</SurfaceArea>
+    <IndepYear>1948</IndepYear>
+    <Population>6217000</Population>
+    <LifeExpectancy>78.6</LifeExpectancy>
+    <GNP>97477</GNP>
+    <GNPOld>98577</GNPOld>
+    <LocalName>YisraÂ’el/IsraÂ’il</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Moshe Katzav</HeadOfState>
+    <Capital>1450</Capital>
+    <Code2>IL</Code2>
+  </Country>
+  <Country>
+    <Code>ITA</Code>
+    <Name>Italy</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>301316</SurfaceArea>
+    <IndepYear>1861</IndepYear>
+    <Population>57680000</Population>
+    <LifeExpectancy>79</LifeExpectancy>
+    <GNP>1161755</GNP>
+    <GNPOld>1145372</GNPOld>
+    <LocalName>Italia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Carlo Azeglio Ciampi</HeadOfState>
+    <Capital>1464</Capital>
+    <Code2>IT</Code2>
+  </Country>
+  <Country>
+    <Code>JAM</Code>
+    <Name>Jamaica</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>10990</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>2583000</Population>
+    <LifeExpectancy>75.2</LifeExpectancy>
+    <GNP>6871</GNP>
+    <GNPOld>6722</GNPOld>
+    <LocalName>Jamaica</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>1530</Capital>
+    <Code2>JM</Code2>
+  </Country>
+  <Country>
+    <Code>JOR</Code>
+    <Name>Jordan</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>88946</SurfaceArea>
+    <IndepYear>1946</IndepYear>
+    <Population>5083000</Population>
+    <LifeExpectancy>77.4</LifeExpectancy>
+    <GNP>7526</GNP>
+    <GNPOld>7051</GNPOld>
+    <LocalName>Al-Urdunn</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Abdullah II</HeadOfState>
+    <Capital>1786</Capital>
+    <Code2>JO</Code2>
+  </Country>
+  <Country>
+    <Code>JPN</Code>
+    <Name>Japan</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>377829</SurfaceArea>
+    <IndepYear>-660</IndepYear>
+    <Population>126714000</Population>
+    <LifeExpectancy>80.7</LifeExpectancy>
+    <GNP>3787042</GNP>
+    <GNPOld>4192638</GNPOld>
+    <LocalName>Nihon/Nippon</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Akihito</HeadOfState>
+    <Capital>1532</Capital>
+    <Code2>JP</Code2>
+  </Country>
+  <Country>
+    <Code>KAZ</Code>
+    <Name>Kazakstan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>2724900</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>16223000</Population>
+    <LifeExpectancy>63.2</LifeExpectancy>
+    <GNP>24375</GNP>
+    <GNPOld>23383</GNPOld>
+    <LocalName>Qazaqstan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Nursultan Nazarbajev</HeadOfState>
+    <Capital>1864</Capital>
+    <Code2>KZ</Code2>
+  </Country>
+  <Country>
+    <Code>KEN</Code>
+    <Name>Kenya</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>580367</SurfaceArea>
+    <IndepYear>1963</IndepYear>
+    <Population>30080000</Population>
+    <LifeExpectancy>48</LifeExpectancy>
+    <GNP>9217</GNP>
+    <GNPOld>10241</GNPOld>
+    <LocalName>Kenya</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Daniel arap Moi</HeadOfState>
+    <Capital>1881</Capital>
+    <Code2>KE</Code2>
+  </Country>
+  <Country>
+    <Code>KGZ</Code>
+    <Name>Kyrgyzstan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>199900</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>4699000</Population>
+    <LifeExpectancy>63.4</LifeExpectancy>
+    <GNP>1626</GNP>
+    <GNPOld>1767</GNPOld>
+    <LocalName>Kyrgyzstan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Askar Akajev</HeadOfState>
+    <Capital>2253</Capital>
+    <Code2>KG</Code2>
+  </Country>
+  <Country>
+    <Code>KHM</Code>
+    <Name>Cambodia</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>181035</SurfaceArea>
+    <IndepYear>1953</IndepYear>
+    <Population>11168000</Population>
+    <LifeExpectancy>56.5</LifeExpectancy>
+    <GNP>5121</GNP>
+    <GNPOld>5670</GNPOld>
+    <LocalName>KÃ¢mpuchÃ©a</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Norodom Sihanouk</HeadOfState>
+    <Capital>1800</Capital>
+    <Code2>KH</Code2>
+  </Country>
+  <Country>
+    <Code>KIR</Code>
+    <Name>Kiribati</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>726</SurfaceArea>
+    <IndepYear>1979</IndepYear>
+    <Population>83000</Population>
+    <LifeExpectancy>59.8</LifeExpectancy>
+    <GNP>40.7</GNP>
+    <GNPOld/>
+    <LocalName>Kiribati</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Teburoro Tito</HeadOfState>
+    <Capital>2256</Capital>
+    <Code2>KI</Code2>
+  </Country>
+  <Country>
+    <Code>KNA</Code>
+    <Name>Saint Kitts and Nevis</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>261</SurfaceArea>
+    <IndepYear>1983</IndepYear>
+    <Population>38000</Population>
+    <LifeExpectancy>70.7</LifeExpectancy>
+    <GNP>299</GNP>
+    <GNPOld/>
+    <LocalName>Saint Kitts and Nevis</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3064</Capital>
+    <Code2>KN</Code2>
+  </Country>
+  <Country>
+    <Code>KOR</Code>
+    <Name>South Korea</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>99434</SurfaceArea>
+    <IndepYear>1948</IndepYear>
+    <Population>46844000</Population>
+    <LifeExpectancy>74.4</LifeExpectancy>
+    <GNP>320749</GNP>
+    <GNPOld>442544</GNPOld>
+    <LocalName>Taehan MinÂ’guk (Namhan)</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Kim Dae-jung</HeadOfState>
+    <Capital>2331</Capital>
+    <Code2>KR</Code2>
+  </Country>
+  <Country>
+    <Code>KWT</Code>
+    <Name>Kuwait</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>17818</SurfaceArea>
+    <IndepYear>1961</IndepYear>
+    <Population>1972000</Population>
+    <LifeExpectancy>76.1</LifeExpectancy>
+    <GNP>27037</GNP>
+    <GNPOld>30373</GNPOld>
+    <LocalName>Al-Kuwayt</LocalName>
+    <GovernmentForm>Constitutional Monarchy (Emirate)</GovernmentForm>
+    <HeadOfState>Jabir al-Ahmad al-Jabir al-Sabah</HeadOfState>
+    <Capital>2429</Capital>
+    <Code2>KW</Code2>
+  </Country>
+  <Country>
+    <Code>LAO</Code>
+    <Name>Laos</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>236800</SurfaceArea>
+    <IndepYear>1953</IndepYear>
+    <Population>5433000</Population>
+    <LifeExpectancy>53.1</LifeExpectancy>
+    <GNP>1292</GNP>
+    <GNPOld>1746</GNPOld>
+    <LocalName>Lao</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Khamtay Siphandone</HeadOfState>
+    <Capital>2432</Capital>
+    <Code2>LA</Code2>
+  </Country>
+  <Country>
+    <Code>LBN</Code>
+    <Name>Lebanon</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>10400</SurfaceArea>
+    <IndepYear>1941</IndepYear>
+    <Population>3282000</Population>
+    <LifeExpectancy>71.3</LifeExpectancy>
+    <GNP>17121</GNP>
+    <GNPOld>15129</GNPOld>
+    <LocalName>Lubnan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ã‰mile Lahoud</HeadOfState>
+    <Capital>2438</Capital>
+    <Code2>LB</Code2>
+  </Country>
+  <Country>
+    <Code>LBR</Code>
+    <Name>Liberia</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>111369</SurfaceArea>
+    <IndepYear>1847</IndepYear>
+    <Population>3154000</Population>
+    <LifeExpectancy>51</LifeExpectancy>
+    <GNP>2012</GNP>
+    <GNPOld/>
+    <LocalName>Liberia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Charles Taylor</HeadOfState>
+    <Capital>2440</Capital>
+    <Code2>LR</Code2>
+  </Country>
+  <Country>
+    <Code>LBY</Code>
+    <Name>Libyan Arab Jamahiriya</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>1759540</SurfaceArea>
+    <IndepYear>1951</IndepYear>
+    <Population>5605000</Population>
+    <LifeExpectancy>75.5</LifeExpectancy>
+    <GNP>44806</GNP>
+    <GNPOld>40562</GNPOld>
+    <LocalName>Libiya</LocalName>
+    <GovernmentForm>Socialistic State</GovernmentForm>
+    <HeadOfState>Muammar al-Qadhafi</HeadOfState>
+    <Capital>2441</Capital>
+    <Code2>LY</Code2>
+  </Country>
+  <Country>
+    <Code>LCA</Code>
+    <Name>Saint Lucia</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>622</SurfaceArea>
+    <IndepYear>1979</IndepYear>
+    <Population>154000</Population>
+    <LifeExpectancy>72.3</LifeExpectancy>
+    <GNP>571</GNP>
+    <GNPOld/>
+    <LocalName>Saint Lucia</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3065</Capital>
+    <Code2>LC</Code2>
+  </Country>
+  <Country>
+    <Code>LIE</Code>
+    <Name>Liechtenstein</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>160</SurfaceArea>
+    <IndepYear>1806</IndepYear>
+    <Population>32300</Population>
+    <LifeExpectancy>78.8</LifeExpectancy>
+    <GNP>1119</GNP>
+    <GNPOld>1084</GNPOld>
+    <LocalName>Liechtenstein</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Hans-Adam II</HeadOfState>
+    <Capital>2446</Capital>
+    <Code2>LI</Code2>
+  </Country>
+  <Country>
+    <Code>LKA</Code>
+    <Name>Sri Lanka</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>65610</SurfaceArea>
+    <IndepYear>1948</IndepYear>
+    <Population>18827000</Population>
+    <LifeExpectancy>71.8</LifeExpectancy>
+    <GNP>15706</GNP>
+    <GNPOld>15091</GNPOld>
+    <LocalName>Sri Lanka/Ilankai</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Chandrika Kumaratunga</HeadOfState>
+    <Capital>3217</Capital>
+    <Code2>LK</Code2>
+  </Country>
+  <Country>
+    <Code>LSO</Code>
+    <Name>Lesotho</Name>
+    <Continent>Africa</Continent>
+    <Region>Southern Africa</Region>
+    <SurfaceArea>30355</SurfaceArea>
+    <IndepYear>1966</IndepYear>
+    <Population>2153000</Population>
+    <LifeExpectancy>50.8</LifeExpectancy>
+    <GNP>1061</GNP>
+    <GNPOld>1161</GNPOld>
+    <LocalName>Lesotho</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Letsie III</HeadOfState>
+    <Capital>2437</Capital>
+    <Code2>LS</Code2>
+  </Country>
+  <Country>
+    <Code>LTU</Code>
+    <Name>Lithuania</Name>
+    <Continent>Europe</Continent>
+    <Region>Baltic Countries</Region>
+    <SurfaceArea>65301</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>3698500</Population>
+    <LifeExpectancy>69.1</LifeExpectancy>
+    <GNP>10692</GNP>
+    <GNPOld>9585</GNPOld>
+    <LocalName>Lietuva</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Valdas Adamkus</HeadOfState>
+    <Capital>2447</Capital>
+    <Code2>LT</Code2>
+  </Country>
+  <Country>
+    <Code>LUX</Code>
+    <Name>Luxembourg</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>2586</SurfaceArea>
+    <IndepYear>1867</IndepYear>
+    <Population>435700</Population>
+    <LifeExpectancy>77.1</LifeExpectancy>
+    <GNP>16321</GNP>
+    <GNPOld>15519</GNPOld>
+    <LocalName>Luxembourg/LÃ«tzebuerg</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Henri</HeadOfState>
+    <Capital>2452</Capital>
+    <Code2>LU</Code2>
+  </Country>
+  <Country>
+    <Code>LVA</Code>
+    <Name>Latvia</Name>
+    <Continent>Europe</Continent>
+    <Region>Baltic Countries</Region>
+    <SurfaceArea>64589</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>2424200</Population>
+    <LifeExpectancy>68.4</LifeExpectancy>
+    <GNP>6398</GNP>
+    <GNPOld>5639</GNPOld>
+    <LocalName>Latvija</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Vaira Vike-Freiberga</HeadOfState>
+    <Capital>2434</Capital>
+    <Code2>LV</Code2>
+  </Country>
+  <Country>
+    <Code>MAC</Code>
+    <Name>Macao</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>18</SurfaceArea>
+    <IndepYear/>
+    <Population>473000</Population>
+    <LifeExpectancy>81.6</LifeExpectancy>
+    <GNP>5749</GNP>
+    <GNPOld>5940</GNPOld>
+    <LocalName>Macau/Aomen</LocalName>
+    <GovernmentForm>Special Administrative Region of China</GovernmentForm>
+    <HeadOfState>Jiang Zemin</HeadOfState>
+    <Capital>2454</Capital>
+    <Code2>MO</Code2>
+  </Country>
+  <Country>
+    <Code>MAR</Code>
+    <Name>Morocco</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>446550</SurfaceArea>
+    <IndepYear>1956</IndepYear>
+    <Population>28351000</Population>
+    <LifeExpectancy>69.1</LifeExpectancy>
+    <GNP>36124</GNP>
+    <GNPOld>33514</GNPOld>
+    <LocalName>Al-Maghrib</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Mohammed VI</HeadOfState>
+    <Capital>2486</Capital>
+    <Code2>MA</Code2>
+  </Country>
+  <Country>
+    <Code>MCO</Code>
+    <Name>Monaco</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>1.5</SurfaceArea>
+    <IndepYear>1861</IndepYear>
+    <Population>34000</Population>
+    <LifeExpectancy>78.8</LifeExpectancy>
+    <GNP>776</GNP>
+    <GNPOld/>
+    <LocalName>Monaco</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Rainier III</HeadOfState>
+    <Capital>2695</Capital>
+    <Code2>MC</Code2>
+  </Country>
+  <Country>
+    <Code>MDA</Code>
+    <Name>Moldova</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>33851</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>4380000</Population>
+    <LifeExpectancy>64.5</LifeExpectancy>
+    <GNP>1579</GNP>
+    <GNPOld>1872</GNPOld>
+    <LocalName>Moldova</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Vladimir Voronin</HeadOfState>
+    <Capital>2690</Capital>
+    <Code2>MD</Code2>
+  </Country>
+  <Country>
+    <Code>MDG</Code>
+    <Name>Madagascar</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>587041</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>15942000</Population>
+    <LifeExpectancy>55</LifeExpectancy>
+    <GNP>3750</GNP>
+    <GNPOld>3545</GNPOld>
+    <LocalName>Madagasikara/Madagascar</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Didier Ratsiraka</HeadOfState>
+    <Capital>2455</Capital>
+    <Code2>MG</Code2>
+  </Country>
+  <Country>
+    <Code>MDV</Code>
+    <Name>Maldives</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>298</SurfaceArea>
+    <IndepYear>1965</IndepYear>
+    <Population>286000</Population>
+    <LifeExpectancy>62.2</LifeExpectancy>
+    <GNP>199</GNP>
+    <GNPOld/>
+    <LocalName>Dhivehi Raajje/Maldives</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Maumoon Abdul Gayoom</HeadOfState>
+    <Capital>2463</Capital>
+    <Code2>MV</Code2>
+  </Country>
+  <Country>
+    <Code>MEX</Code>
+    <Name>Mexico</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>1958201</SurfaceArea>
+    <IndepYear>1810</IndepYear>
+    <Population>98881000</Population>
+    <LifeExpectancy>71.5</LifeExpectancy>
+    <GNP>414972</GNP>
+    <GNPOld>401461</GNPOld>
+    <LocalName>MÃ©xico</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Vicente Fox Quesada</HeadOfState>
+    <Capital>2515</Capital>
+    <Code2>MX</Code2>
+  </Country>
+  <Country>
+    <Code>MHL</Code>
+    <Name>Marshall Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>181</SurfaceArea>
+    <IndepYear>1990</IndepYear>
+    <Population>64000</Population>
+    <LifeExpectancy>65.5</LifeExpectancy>
+    <GNP>97</GNP>
+    <GNPOld/>
+    <LocalName>Marshall Islands/Majol</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Kessai Note</HeadOfState>
+    <Capital>2507</Capital>
+    <Code2>MH</Code2>
+  </Country>
+  <Country>
+    <Code>MKD</Code>
+    <Name>Macedonia</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>25713</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>2024000</Population>
+    <LifeExpectancy>73.8</LifeExpectancy>
+    <GNP>1694</GNP>
+    <GNPOld>1915</GNPOld>
+    <LocalName>Makedonija</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Boris Trajkovski</HeadOfState>
+    <Capital>2460</Capital>
+    <Code2>MK</Code2>
+  </Country>
+  <Country>
+    <Code>MLI</Code>
+    <Name>Mali</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>1240192</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>11234000</Population>
+    <LifeExpectancy>46.7</LifeExpectancy>
+    <GNP>2642</GNP>
+    <GNPOld>2453</GNPOld>
+    <LocalName>Mali</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Alpha Oumar KonarÃ©</HeadOfState>
+    <Capital>2482</Capital>
+    <Code2>ML</Code2>
+  </Country>
+  <Country>
+    <Code>MLT</Code>
+    <Name>Malta</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>316</SurfaceArea>
+    <IndepYear>1964</IndepYear>
+    <Population>380200</Population>
+    <LifeExpectancy>77.9</LifeExpectancy>
+    <GNP>3512</GNP>
+    <GNPOld>3338</GNPOld>
+    <LocalName>Malta</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Guido de Marco</HeadOfState>
+    <Capital>2484</Capital>
+    <Code2>MT</Code2>
+  </Country>
+  <Country>
+    <Code>MMR</Code>
+    <Name>Myanmar</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>676578</SurfaceArea>
+    <IndepYear>1948</IndepYear>
+    <Population>45611000</Population>
+    <LifeExpectancy>54.9</LifeExpectancy>
+    <GNP>180375</GNP>
+    <GNPOld>171028</GNPOld>
+    <LocalName>Myanma Pye</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>kenraali Than Shwe</HeadOfState>
+    <Capital>2710</Capital>
+    <Code2>MM</Code2>
+  </Country>
+  <Country>
+    <Code>MNG</Code>
+    <Name>Mongolia</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>1566500</SurfaceArea>
+    <IndepYear>1921</IndepYear>
+    <Population>2662000</Population>
+    <LifeExpectancy>67.3</LifeExpectancy>
+    <GNP>1043</GNP>
+    <GNPOld>933</GNPOld>
+    <LocalName>Mongol Uls</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Natsagiin Bagabandi</HeadOfState>
+    <Capital>2696</Capital>
+    <Code2>MN</Code2>
+  </Country>
+  <Country>
+    <Code>MNP</Code>
+    <Name>Northern Mariana Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>464</SurfaceArea>
+    <IndepYear/>
+    <Population>78000</Population>
+    <LifeExpectancy>75.5</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Northern Mariana Islands</LocalName>
+    <GovernmentForm>Commonwealth of the US</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital>2913</Capital>
+    <Code2>MP</Code2>
+  </Country>
+  <Country>
+    <Code>MOZ</Code>
+    <Name>Mozambique</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>801590</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>19680000</Population>
+    <LifeExpectancy>37.5</LifeExpectancy>
+    <GNP>2891</GNP>
+    <GNPOld>2711</GNPOld>
+    <LocalName>MoÃ§ambique</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>JoaquÃ­m A. Chissano</HeadOfState>
+    <Capital>2698</Capital>
+    <Code2>MZ</Code2>
+  </Country>
+  <Country>
+    <Code>MRT</Code>
+    <Name>Mauritania</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>1025520</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>2670000</Population>
+    <LifeExpectancy>50.8</LifeExpectancy>
+    <GNP>998</GNP>
+    <GNPOld>1081</GNPOld>
+    <LocalName>Muritaniya/Mauritanie</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Maaouiya Ould SidÂ´Ahmad Taya</HeadOfState>
+    <Capital>2509</Capital>
+    <Code2>MR</Code2>
+  </Country>
+  <Country>
+    <Code>MSR</Code>
+    <Name>Montserrat</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>102</SurfaceArea>
+    <IndepYear/>
+    <Population>11000</Population>
+    <LifeExpectancy>78</LifeExpectancy>
+    <GNP>109</GNP>
+    <GNPOld/>
+    <LocalName>Montserrat</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>2697</Capital>
+    <Code2>MS</Code2>
+  </Country>
+  <Country>
+    <Code>MTQ</Code>
+    <Name>Martinique</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>1102</SurfaceArea>
+    <IndepYear/>
+    <Population>395000</Population>
+    <LifeExpectancy>78.3</LifeExpectancy>
+    <GNP>2731</GNP>
+    <GNPOld>2559</GNPOld>
+    <LocalName>Martinique</LocalName>
+    <GovernmentForm>Overseas Department of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>2508</Capital>
+    <Code2>MQ</Code2>
+  </Country>
+  <Country>
+    <Code>MUS</Code>
+    <Name>Mauritius</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>2040</SurfaceArea>
+    <IndepYear>1968</IndepYear>
+    <Population>1158000</Population>
+    <LifeExpectancy>71</LifeExpectancy>
+    <GNP>4251</GNP>
+    <GNPOld>4186</GNPOld>
+    <LocalName>Mauritius</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Cassam Uteem</HeadOfState>
+    <Capital>2511</Capital>
+    <Code2>MU</Code2>
+  </Country>
+  <Country>
+    <Code>MWI</Code>
+    <Name>Malawi</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>118484</SurfaceArea>
+    <IndepYear>1964</IndepYear>
+    <Population>10925000</Population>
+    <LifeExpectancy>37.6</LifeExpectancy>
+    <GNP>1687</GNP>
+    <GNPOld>2527</GNPOld>
+    <LocalName>Malawi</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Bakili Muluzi</HeadOfState>
+    <Capital>2462</Capital>
+    <Code2>MW</Code2>
+  </Country>
+  <Country>
+    <Code>MYS</Code>
+    <Name>Malaysia</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>329758</SurfaceArea>
+    <IndepYear>1957</IndepYear>
+    <Population>22244000</Population>
+    <LifeExpectancy>70.8</LifeExpectancy>
+    <GNP>69213</GNP>
+    <GNPOld>97884</GNPOld>
+    <LocalName>Malaysia</LocalName>
+    <GovernmentForm>Constitutional Monarchy, Federation</GovernmentForm>
+    <HeadOfState>Salahuddin Abdul Aziz Shah Alhaj</HeadOfState>
+    <Capital>2464</Capital>
+    <Code2>MY</Code2>
+  </Country>
+  <Country>
+    <Code>MYT</Code>
+    <Name>Mayotte</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>373</SurfaceArea>
+    <IndepYear/>
+    <Population>149000</Population>
+    <LifeExpectancy>59.5</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Mayotte</LocalName>
+    <GovernmentForm>Territorial Collectivity of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>2514</Capital>
+    <Code2>YT</Code2>
+  </Country>
+  <Country>
+    <Code>NAM</Code>
+    <Name>Namibia</Name>
+    <Continent>Africa</Continent>
+    <Region>Southern Africa</Region>
+    <SurfaceArea>824292</SurfaceArea>
+    <IndepYear>1990</IndepYear>
+    <Population>1726000</Population>
+    <LifeExpectancy>42.5</LifeExpectancy>
+    <GNP>3101</GNP>
+    <GNPOld>3384</GNPOld>
+    <LocalName>Namibia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Sam Nujoma</HeadOfState>
+    <Capital>2726</Capital>
+    <Code2>NA</Code2>
+  </Country>
+  <Country>
+    <Code>NCL</Code>
+    <Name>New Caledonia</Name>
+    <Continent>Oceania</Continent>
+    <Region>Melanesia</Region>
+    <SurfaceArea>18575</SurfaceArea>
+    <IndepYear/>
+    <Population>214000</Population>
+    <LifeExpectancy>72.8</LifeExpectancy>
+    <GNP>3563</GNP>
+    <GNPOld/>
+    <LocalName>Nouvelle-CalÃ©donie</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>3493</Capital>
+    <Code2>NC</Code2>
+  </Country>
+  <Country>
+    <Code>NER</Code>
+    <Name>Niger</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>1267000</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>10730000</Population>
+    <LifeExpectancy>41.3</LifeExpectancy>
+    <GNP>1706</GNP>
+    <GNPOld>1580</GNPOld>
+    <LocalName>Niger</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Mamadou Tandja</HeadOfState>
+    <Capital>2738</Capital>
+    <Code2>NE</Code2>
+  </Country>
+  <Country>
+    <Code>NFK</Code>
+    <Name>Norfolk Island</Name>
+    <Continent>Oceania</Continent>
+    <Region>Australia and New Zealand</Region>
+    <SurfaceArea>36</SurfaceArea>
+    <IndepYear/>
+    <Population>2000</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Norfolk Island</LocalName>
+    <GovernmentForm>Territory of Australia</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>2806</Capital>
+    <Code2>NF</Code2>
+  </Country>
+  <Country>
+    <Code>NGA</Code>
+    <Name>Nigeria</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>923768</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>111506000</Population>
+    <LifeExpectancy>51.6</LifeExpectancy>
+    <GNP>65707</GNP>
+    <GNPOld>58623</GNPOld>
+    <LocalName>Nigeria</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Olusegun Obasanjo</HeadOfState>
+    <Capital>2754</Capital>
+    <Code2>NG</Code2>
+  </Country>
+  <Country>
+    <Code>NIC</Code>
+    <Name>Nicaragua</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>130000</SurfaceArea>
+    <IndepYear>1838</IndepYear>
+    <Population>5074000</Population>
+    <LifeExpectancy>68.7</LifeExpectancy>
+    <GNP>1988</GNP>
+    <GNPOld>2023</GNPOld>
+    <LocalName>Nicaragua</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Arnoldo AlemÃ¡n Lacayo</HeadOfState>
+    <Capital>2734</Capital>
+    <Code2>NI</Code2>
+  </Country>
+  <Country>
+    <Code>NIU</Code>
+    <Name>Niue</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>260</SurfaceArea>
+    <IndepYear/>
+    <Population>2000</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Niue</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of New Zealand</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>2805</Capital>
+    <Code2>NU</Code2>
+  </Country>
+  <Country>
+    <Code>NLD</Code>
+    <Name>Netherlands</Name>
+    <Continent>Europe</Continent>
+    <Region>Western Europe</Region>
+    <SurfaceArea>41526</SurfaceArea>
+    <IndepYear>1581</IndepYear>
+    <Population>15864000</Population>
+    <LifeExpectancy>78.3</LifeExpectancy>
+    <GNP>371362</GNP>
+    <GNPOld>360478</GNPOld>
+    <LocalName>Nederland</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Beatrix</HeadOfState>
+    <Capital>5</Capital>
+    <Code2>NL</Code2>
+  </Country>
+  <Country>
+    <Code>NOR</Code>
+    <Name>Norway</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>323877</SurfaceArea>
+    <IndepYear>1905</IndepYear>
+    <Population>4478500</Population>
+    <LifeExpectancy>78.7</LifeExpectancy>
+    <GNP>145895</GNP>
+    <GNPOld>153370</GNPOld>
+    <LocalName>Norge</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Harald V</HeadOfState>
+    <Capital>2807</Capital>
+    <Code2>NO</Code2>
+  </Country>
+  <Country>
+    <Code>NPL</Code>
+    <Name>Nepal</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>147181</SurfaceArea>
+    <IndepYear>1769</IndepYear>
+    <Population>23930000</Population>
+    <LifeExpectancy>57.8</LifeExpectancy>
+    <GNP>4768</GNP>
+    <GNPOld>4837</GNPOld>
+    <LocalName>Nepal</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Gyanendra Bir Bikram</HeadOfState>
+    <Capital>2729</Capital>
+    <Code2>NP</Code2>
+  </Country>
+  <Country>
+    <Code>NRU</Code>
+    <Name>Nauru</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>21</SurfaceArea>
+    <IndepYear>1968</IndepYear>
+    <Population>12000</Population>
+    <LifeExpectancy>60.8</LifeExpectancy>
+    <GNP>197</GNP>
+    <GNPOld/>
+    <LocalName>Naoero/Nauru</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Bernard Dowiyogo</HeadOfState>
+    <Capital>2728</Capital>
+    <Code2>NR</Code2>
+  </Country>
+  <Country>
+    <Code>NZL</Code>
+    <Name>New Zealand</Name>
+    <Continent>Oceania</Continent>
+    <Region>Australia and New Zealand</Region>
+    <SurfaceArea>270534</SurfaceArea>
+    <IndepYear>1907</IndepYear>
+    <Population>3862000</Population>
+    <LifeExpectancy>77.8</LifeExpectancy>
+    <GNP>54669</GNP>
+    <GNPOld>64960</GNPOld>
+    <LocalName>New Zealand/Aotearoa</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3499</Capital>
+    <Code2>NZ</Code2>
+  </Country>
+  <Country>
+    <Code>OMN</Code>
+    <Name>Oman</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>309500</SurfaceArea>
+    <IndepYear>1951</IndepYear>
+    <Population>2542000</Population>
+    <LifeExpectancy>71.8</LifeExpectancy>
+    <GNP>16904</GNP>
+    <GNPOld>16153</GNPOld>
+    <LocalName>Â´Uman</LocalName>
+    <GovernmentForm>Monarchy (Sultanate)</GovernmentForm>
+    <HeadOfState>Qabus ibn SaÂ´id</HeadOfState>
+    <Capital>2821</Capital>
+    <Code2>OM</Code2>
+  </Country>
+  <Country>
+    <Code>PAK</Code>
+    <Name>Pakistan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>796095</SurfaceArea>
+    <IndepYear>1947</IndepYear>
+    <Population>156483000</Population>
+    <LifeExpectancy>61.1</LifeExpectancy>
+    <GNP>61289</GNP>
+    <GNPOld>58549</GNPOld>
+    <LocalName>Pakistan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Mohammad Rafiq Tarar</HeadOfState>
+    <Capital>2831</Capital>
+    <Code2>PK</Code2>
+  </Country>
+  <Country>
+    <Code>PAN</Code>
+    <Name>Panama</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>75517</SurfaceArea>
+    <IndepYear>1903</IndepYear>
+    <Population>2856000</Population>
+    <LifeExpectancy>75.5</LifeExpectancy>
+    <GNP>9131</GNP>
+    <GNPOld>8700</GNPOld>
+    <LocalName>PanamÃ¡</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Mireya Elisa Moscoso RodrÃ­guez</HeadOfState>
+    <Capital>2882</Capital>
+    <Code2>PA</Code2>
+  </Country>
+  <Country>
+    <Code>PCN</Code>
+    <Name>Pitcairn</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>49</SurfaceArea>
+    <IndepYear/>
+    <Population>50</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Pitcairn</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>2912</Capital>
+    <Code2>PN</Code2>
+  </Country>
+  <Country>
+    <Code>PER</Code>
+    <Name>Peru</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>1285216</SurfaceArea>
+    <IndepYear>1821</IndepYear>
+    <Population>25662000</Population>
+    <LifeExpectancy>70</LifeExpectancy>
+    <GNP>64140</GNP>
+    <GNPOld>65186</GNPOld>
+    <LocalName>PerÃº/Piruw</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Valentin Paniagua Corazao</HeadOfState>
+    <Capital>2890</Capital>
+    <Code2>PE</Code2>
+  </Country>
+  <Country>
+    <Code>PHL</Code>
+    <Name>Philippines</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>300000</SurfaceArea>
+    <IndepYear>1946</IndepYear>
+    <Population>75967000</Population>
+    <LifeExpectancy>67.5</LifeExpectancy>
+    <GNP>65107</GNP>
+    <GNPOld>82239</GNPOld>
+    <LocalName>Pilipinas</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Gloria Macapagal-Arroyo</HeadOfState>
+    <Capital>766</Capital>
+    <Code2>PH</Code2>
+  </Country>
+  <Country>
+    <Code>PLW</Code>
+    <Name>Palau</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia</Region>
+    <SurfaceArea>459</SurfaceArea>
+    <IndepYear>1994</IndepYear>
+    <Population>19000</Population>
+    <LifeExpectancy>68.6</LifeExpectancy>
+    <GNP>105</GNP>
+    <GNPOld/>
+    <LocalName>Belau/Palau</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Kuniwo Nakamura</HeadOfState>
+    <Capital>2881</Capital>
+    <Code2>PW</Code2>
+  </Country>
+  <Country>
+    <Code>PNG</Code>
+    <Name>Papua New Guinea</Name>
+    <Continent>Oceania</Continent>
+    <Region>Melanesia</Region>
+    <SurfaceArea>462840</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>4807000</Population>
+    <LifeExpectancy>63.1</LifeExpectancy>
+    <GNP>4988</GNP>
+    <GNPOld>6328</GNPOld>
+    <LocalName>Papua New Guinea/Papua Niugini</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>2884</Capital>
+    <Code2>PG</Code2>
+  </Country>
+  <Country>
+    <Code>POL</Code>
+    <Name>Poland</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>323250</SurfaceArea>
+    <IndepYear>1918</IndepYear>
+    <Population>38653600</Population>
+    <LifeExpectancy>73.2</LifeExpectancy>
+    <GNP>151697</GNP>
+    <GNPOld>135636</GNPOld>
+    <LocalName>Polska</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Aleksander Kwasniewski</HeadOfState>
+    <Capital>2928</Capital>
+    <Code2>PL</Code2>
+  </Country>
+  <Country>
+    <Code>PRI</Code>
+    <Name>Puerto Rico</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>8875</SurfaceArea>
+    <IndepYear/>
+    <Population>3869000</Population>
+    <LifeExpectancy>75.6</LifeExpectancy>
+    <GNP>34100</GNP>
+    <GNPOld>32100</GNPOld>
+    <LocalName>Puerto Rico</LocalName>
+    <GovernmentForm>Commonwealth of the US</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital>2919</Capital>
+    <Code2>PR</Code2>
+  </Country>
+  <Country>
+    <Code>PRK</Code>
+    <Name>North Korea</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>120538</SurfaceArea>
+    <IndepYear>1948</IndepYear>
+    <Population>24039000</Population>
+    <LifeExpectancy>70.7</LifeExpectancy>
+    <GNP>5332</GNP>
+    <GNPOld/>
+    <LocalName>Choson Minjujuui InÂ´min Konghwaguk (Bukhan)</LocalName>
+    <GovernmentForm>Socialistic Republic</GovernmentForm>
+    <HeadOfState>Kim Jong-il</HeadOfState>
+    <Capital>2318</Capital>
+    <Code2>KP</Code2>
+  </Country>
+  <Country>
+    <Code>PRT</Code>
+    <Name>Portugal</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>91982</SurfaceArea>
+    <IndepYear>1143</IndepYear>
+    <Population>9997600</Population>
+    <LifeExpectancy>75.8</LifeExpectancy>
+    <GNP>105954</GNP>
+    <GNPOld>102133</GNPOld>
+    <LocalName>Portugal</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Jorge SampÃ£io</HeadOfState>
+    <Capital>2914</Capital>
+    <Code2>PT</Code2>
+  </Country>
+  <Country>
+    <Code>PRY</Code>
+    <Name>Paraguay</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>406752</SurfaceArea>
+    <IndepYear>1811</IndepYear>
+    <Population>5496000</Population>
+    <LifeExpectancy>73.7</LifeExpectancy>
+    <GNP>8444</GNP>
+    <GNPOld>9555</GNPOld>
+    <LocalName>Paraguay</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Luis Ãngel GonzÃ¡lez Macchi</HeadOfState>
+    <Capital>2885</Capital>
+    <Code2>PY</Code2>
+  </Country>
+  <Country>
+    <Code>PSE</Code>
+    <Name>Palestine</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>6257</SurfaceArea>
+    <IndepYear/>
+    <Population>3101000</Population>
+    <LifeExpectancy>71.4</LifeExpectancy>
+    <GNP>4173</GNP>
+    <GNPOld/>
+    <LocalName>Filastin</LocalName>
+    <GovernmentForm>Autonomous Area</GovernmentForm>
+    <HeadOfState>Yasser (Yasir) Arafat</HeadOfState>
+    <Capital>4074</Capital>
+    <Code2>PS</Code2>
+  </Country>
+  <Country>
+    <Code>PYF</Code>
+    <Name>French Polynesia</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>4000</SurfaceArea>
+    <IndepYear/>
+    <Population>235000</Population>
+    <LifeExpectancy>74.8</LifeExpectancy>
+    <GNP>818</GNP>
+    <GNPOld>781</GNPOld>
+    <LocalName>PolynÃ©sie franÃ§aise</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>3016</Capital>
+    <Code2>PF</Code2>
+  </Country>
+  <Country>
+    <Code>QAT</Code>
+    <Name>Qatar</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>11000</SurfaceArea>
+    <IndepYear>1971</IndepYear>
+    <Population>599000</Population>
+    <LifeExpectancy>72.4</LifeExpectancy>
+    <GNP>9472</GNP>
+    <GNPOld>8920</GNPOld>
+    <LocalName>Qatar</LocalName>
+    <GovernmentForm>Monarchy</GovernmentForm>
+    <HeadOfState>Hamad ibn Khalifa al-Thani</HeadOfState>
+    <Capital>2973</Capital>
+    <Code2>QA</Code2>
+  </Country>
+  <Country>
+    <Code>REU</Code>
+    <Name>RÃ©union</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>2510</SurfaceArea>
+    <IndepYear/>
+    <Population>699000</Population>
+    <LifeExpectancy>72.7</LifeExpectancy>
+    <GNP>8287</GNP>
+    <GNPOld>7988</GNPOld>
+    <LocalName>RÃ©union</LocalName>
+    <GovernmentForm>Overseas Department of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>3017</Capital>
+    <Code2>RE</Code2>
+  </Country>
+  <Country>
+    <Code>ROM</Code>
+    <Name>Romania</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>238391</SurfaceArea>
+    <IndepYear>1878</IndepYear>
+    <Population>22455500</Population>
+    <LifeExpectancy>69.9</LifeExpectancy>
+    <GNP>38158</GNP>
+    <GNPOld>34843</GNPOld>
+    <LocalName>RomÃ¢nia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ion Iliescu</HeadOfState>
+    <Capital>3018</Capital>
+    <Code2>RO</Code2>
+  </Country>
+  <Country>
+    <Code>RUS</Code>
+    <Name>Russian Federation</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>17075400</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>146934000</Population>
+    <LifeExpectancy>67.2</LifeExpectancy>
+    <GNP>276608</GNP>
+    <GNPOld>442989</GNPOld>
+    <LocalName>Rossija</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Vladimir Putin</HeadOfState>
+    <Capital>3580</Capital>
+    <Code2>RU</Code2>
+  </Country>
+  <Country>
+    <Code>RWA</Code>
+    <Name>Rwanda</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>26338</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>7733000</Population>
+    <LifeExpectancy>39.3</LifeExpectancy>
+    <GNP>2036</GNP>
+    <GNPOld>1863</GNPOld>
+    <LocalName>Rwanda/Urwanda</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Paul Kagame</HeadOfState>
+    <Capital>3047</Capital>
+    <Code2>RW</Code2>
+  </Country>
+  <Country>
+    <Code>SAU</Code>
+    <Name>Saudi Arabia</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>2149690</SurfaceArea>
+    <IndepYear>1932</IndepYear>
+    <Population>21607000</Population>
+    <LifeExpectancy>67.8</LifeExpectancy>
+    <GNP>137635</GNP>
+    <GNPOld>146171</GNPOld>
+    <LocalName>Al-Â´Arabiya as-SaÂ´udiya</LocalName>
+    <GovernmentForm>Monarchy</GovernmentForm>
+    <HeadOfState>Fahd ibn Abdul-Aziz al-SaÂ´ud</HeadOfState>
+    <Capital>3173</Capital>
+    <Code2>SA</Code2>
+  </Country>
+  <Country>
+    <Code>SDN</Code>
+    <Name>Sudan</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>2505813</SurfaceArea>
+    <IndepYear>1956</IndepYear>
+    <Population>29490000</Population>
+    <LifeExpectancy>56.6</LifeExpectancy>
+    <GNP>10162</GNP>
+    <GNPOld/>
+    <LocalName>As-Sudan</LocalName>
+    <GovernmentForm>Islamic Republic</GovernmentForm>
+    <HeadOfState>Omar Hassan Ahmad al-Bashir</HeadOfState>
+    <Capital>3225</Capital>
+    <Code2>SD</Code2>
+  </Country>
+  <Country>
+    <Code>SEN</Code>
+    <Name>Senegal</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>196722</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>9481000</Population>
+    <LifeExpectancy>62.2</LifeExpectancy>
+    <GNP>4787</GNP>
+    <GNPOld>4542</GNPOld>
+    <LocalName>SÃ©nÃ©gal/Sounougal</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Abdoulaye Wade</HeadOfState>
+    <Capital>3198</Capital>
+    <Code2>SN</Code2>
+  </Country>
+  <Country>
+    <Code>SGP</Code>
+    <Name>Singapore</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>618</SurfaceArea>
+    <IndepYear>1965</IndepYear>
+    <Population>3567000</Population>
+    <LifeExpectancy>80.1</LifeExpectancy>
+    <GNP>86503</GNP>
+    <GNPOld>96318</GNPOld>
+    <LocalName>Singapore/Singapura/Xinjiapo/Singapur</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Sellapan Rama Nathan</HeadOfState>
+    <Capital>3208</Capital>
+    <Code2>SG</Code2>
+  </Country>
+  <Country>
+    <Code>SGS</Code>
+    <Name>South Georgia and the South Sandwich Islands</Name>
+    <Continent>Antarctica</Continent>
+    <Region>Antarctica</Region>
+    <SurfaceArea>3903</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>South Georgia and the South Sandwich Islands</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital/>
+    <Code2>GS</Code2>
+  </Country>
+  <Country>
+    <Code>SHN</Code>
+    <Name>Saint Helena</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>314</SurfaceArea>
+    <IndepYear/>
+    <Population>6000</Population>
+    <LifeExpectancy>76.8</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Saint Helena</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3063</Capital>
+    <Code2>SH</Code2>
+  </Country>
+  <Country>
+    <Code>SJM</Code>
+    <Name>Svalbard and Jan Mayen</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>62422</SurfaceArea>
+    <IndepYear/>
+    <Population>3200</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Svalbard og Jan Mayen</LocalName>
+    <GovernmentForm>Dependent Territory of Norway</GovernmentForm>
+    <HeadOfState>Harald V</HeadOfState>
+    <Capital>938</Capital>
+    <Code2>SJ</Code2>
+  </Country>
+  <Country>
+    <Code>SLB</Code>
+    <Name>Solomon Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Melanesia</Region>
+    <SurfaceArea>28896</SurfaceArea>
+    <IndepYear>1978</IndepYear>
+    <Population>444000</Population>
+    <LifeExpectancy>71.3</LifeExpectancy>
+    <GNP>182</GNP>
+    <GNPOld>220</GNPOld>
+    <LocalName>Solomon Islands</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3161</Capital>
+    <Code2>SB</Code2>
+  </Country>
+  <Country>
+    <Code>SLE</Code>
+    <Name>Sierra Leone</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>71740</SurfaceArea>
+    <IndepYear>1961</IndepYear>
+    <Population>4854000</Population>
+    <LifeExpectancy>45.3</LifeExpectancy>
+    <GNP>746</GNP>
+    <GNPOld>858</GNPOld>
+    <LocalName>Sierra Leone</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ahmed Tejan Kabbah</HeadOfState>
+    <Capital>3207</Capital>
+    <Code2>SL</Code2>
+  </Country>
+  <Country>
+    <Code>SLV</Code>
+    <Name>El Salvador</Name>
+    <Continent>North America</Continent>
+    <Region>Central America</Region>
+    <SurfaceArea>21041</SurfaceArea>
+    <IndepYear>1841</IndepYear>
+    <Population>6276000</Population>
+    <LifeExpectancy>69.7</LifeExpectancy>
+    <GNP>11863</GNP>
+    <GNPOld>11203</GNPOld>
+    <LocalName>El Salvador</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Francisco Guillermo Flores PÃ©rez</HeadOfState>
+    <Capital>645</Capital>
+    <Code2>SV</Code2>
+  </Country>
+  <Country>
+    <Code>SMR</Code>
+    <Name>San Marino</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>61</SurfaceArea>
+    <IndepYear>885</IndepYear>
+    <Population>27000</Population>
+    <LifeExpectancy>81.1</LifeExpectancy>
+    <GNP>510</GNP>
+    <GNPOld/>
+    <LocalName>San Marino</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState/>
+    <Capital>3171</Capital>
+    <Code2>SM</Code2>
+  </Country>
+  <Country>
+    <Code>SOM</Code>
+    <Name>Somalia</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>637657</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>10097000</Population>
+    <LifeExpectancy>46.2</LifeExpectancy>
+    <GNP>935</GNP>
+    <GNPOld/>
+    <LocalName>Soomaaliya</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Abdiqassim Salad Hassan</HeadOfState>
+    <Capital>3214</Capital>
+    <Code2>SO</Code2>
+  </Country>
+  <Country>
+    <Code>SPM</Code>
+    <Name>Saint Pierre and Miquelon</Name>
+    <Continent>North America</Continent>
+    <Region>North America</Region>
+    <SurfaceArea>242</SurfaceArea>
+    <IndepYear/>
+    <Population>7000</Population>
+    <LifeExpectancy>77.6</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Saint-Pierre-et-Miquelon</LocalName>
+    <GovernmentForm>Territorial Collectivity of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>3067</Capital>
+    <Code2>PM</Code2>
+  </Country>
+  <Country>
+    <Code>STP</Code>
+    <Name>Sao Tome and Principe</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>964</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>147000</Population>
+    <LifeExpectancy>65.3</LifeExpectancy>
+    <GNP>6</GNP>
+    <GNPOld/>
+    <LocalName>SÃ£o TomÃ© e PrÃ­ncipe</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Miguel Trovoada</HeadOfState>
+    <Capital>3172</Capital>
+    <Code2>ST</Code2>
+  </Country>
+  <Country>
+    <Code>SUR</Code>
+    <Name>Suriname</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>163265</SurfaceArea>
+    <IndepYear>1975</IndepYear>
+    <Population>417000</Population>
+    <LifeExpectancy>71.4</LifeExpectancy>
+    <GNP>870</GNP>
+    <GNPOld>706</GNPOld>
+    <LocalName>Suriname</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ronald Venetiaan</HeadOfState>
+    <Capital>3243</Capital>
+    <Code2>SR</Code2>
+  </Country>
+  <Country>
+    <Code>SVK</Code>
+    <Name>Slovakia</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>49012</SurfaceArea>
+    <IndepYear>1993</IndepYear>
+    <Population>5398700</Population>
+    <LifeExpectancy>73.7</LifeExpectancy>
+    <GNP>20594</GNP>
+    <GNPOld>19452</GNPOld>
+    <LocalName>Slovensko</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Rudolf Schuster</HeadOfState>
+    <Capital>3209</Capital>
+    <Code2>SK</Code2>
+  </Country>
+  <Country>
+    <Code>SVN</Code>
+    <Name>Slovenia</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>20256</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>1987800</Population>
+    <LifeExpectancy>74.9</LifeExpectancy>
+    <GNP>19756</GNP>
+    <GNPOld>18202</GNPOld>
+    <LocalName>Slovenija</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Milan Kucan</HeadOfState>
+    <Capital>3212</Capital>
+    <Code2>SI</Code2>
+  </Country>
+  <Country>
+    <Code>SWE</Code>
+    <Name>Sweden</Name>
+    <Continent>Europe</Continent>
+    <Region>Nordic Countries</Region>
+    <SurfaceArea>449964</SurfaceArea>
+    <IndepYear>836</IndepYear>
+    <Population>8861400</Population>
+    <LifeExpectancy>79.6</LifeExpectancy>
+    <GNP>226492</GNP>
+    <GNPOld>227757</GNPOld>
+    <LocalName>Sverige</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Carl XVI Gustaf</HeadOfState>
+    <Capital>3048</Capital>
+    <Code2>SE</Code2>
+  </Country>
+  <Country>
+    <Code>SWZ</Code>
+    <Name>Swaziland</Name>
+    <Continent>Africa</Continent>
+    <Region>Southern Africa</Region>
+    <SurfaceArea>17364</SurfaceArea>
+    <IndepYear>1968</IndepYear>
+    <Population>1008000</Population>
+    <LifeExpectancy>40.4</LifeExpectancy>
+    <GNP>1206</GNP>
+    <GNPOld>1312</GNPOld>
+    <LocalName>kaNgwane</LocalName>
+    <GovernmentForm>Monarchy</GovernmentForm>
+    <HeadOfState>Mswati III</HeadOfState>
+    <Capital>3244</Capital>
+    <Code2>SZ</Code2>
+  </Country>
+  <Country>
+    <Code>SYC</Code>
+    <Name>Seychelles</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>455</SurfaceArea>
+    <IndepYear>1976</IndepYear>
+    <Population>77000</Population>
+    <LifeExpectancy>70.4</LifeExpectancy>
+    <GNP>536</GNP>
+    <GNPOld>539</GNPOld>
+    <LocalName>Sesel/Seychelles</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>France-Albert RenÃ©</HeadOfState>
+    <Capital>3206</Capital>
+    <Code2>SC</Code2>
+  </Country>
+  <Country>
+    <Code>SYR</Code>
+    <Name>Syria</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>185180</SurfaceArea>
+    <IndepYear>1941</IndepYear>
+    <Population>16125000</Population>
+    <LifeExpectancy>68.5</LifeExpectancy>
+    <GNP>65984</GNP>
+    <GNPOld>64926</GNPOld>
+    <LocalName>Suriya</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Bashar al-Assad</HeadOfState>
+    <Capital>3250</Capital>
+    <Code2>SY</Code2>
+  </Country>
+  <Country>
+    <Code>TCA</Code>
+    <Name>Turks and Caicos Islands</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>430</SurfaceArea>
+    <IndepYear/>
+    <Population>17000</Population>
+    <LifeExpectancy>73.3</LifeExpectancy>
+    <GNP>96</GNP>
+    <GNPOld/>
+    <LocalName>The Turks and Caicos Islands</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3423</Capital>
+    <Code2>TC</Code2>
+  </Country>
+  <Country>
+    <Code>TCD</Code>
+    <Name>Chad</Name>
+    <Continent>Africa</Continent>
+    <Region>Central Africa</Region>
+    <SurfaceArea>1284000</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>7651000</Population>
+    <LifeExpectancy>50.5</LifeExpectancy>
+    <GNP>1208</GNP>
+    <GNPOld>1102</GNPOld>
+    <LocalName>Tchad/Tshad</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Idriss DÃ©by</HeadOfState>
+    <Capital>3337</Capital>
+    <Code2>TD</Code2>
+  </Country>
+  <Country>
+    <Code>TGO</Code>
+    <Name>Togo</Name>
+    <Continent>Africa</Continent>
+    <Region>Western Africa</Region>
+    <SurfaceArea>56785</SurfaceArea>
+    <IndepYear>1960</IndepYear>
+    <Population>4629000</Population>
+    <LifeExpectancy>54.7</LifeExpectancy>
+    <GNP>1449</GNP>
+    <GNPOld>1400</GNPOld>
+    <LocalName>Togo</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>GnassingbÃ© EyadÃ©ma</HeadOfState>
+    <Capital>3332</Capital>
+    <Code2>TG</Code2>
+  </Country>
+  <Country>
+    <Code>THA</Code>
+    <Name>Thailand</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>513115</SurfaceArea>
+    <IndepYear>1350</IndepYear>
+    <Population>61399000</Population>
+    <LifeExpectancy>68.6</LifeExpectancy>
+    <GNP>116416</GNP>
+    <GNPOld>153907</GNPOld>
+    <LocalName>Prathet Thai</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Bhumibol Adulyadej</HeadOfState>
+    <Capital>3320</Capital>
+    <Code2>TH</Code2>
+  </Country>
+  <Country>
+    <Code>TJK</Code>
+    <Name>Tajikistan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>143100</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>6188000</Population>
+    <LifeExpectancy>64.1</LifeExpectancy>
+    <GNP>1990</GNP>
+    <GNPOld>1056</GNPOld>
+    <LocalName>ToÃ§ikiston</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Emomali Rahmonov</HeadOfState>
+    <Capital>3261</Capital>
+    <Code2>TJ</Code2>
+  </Country>
+  <Country>
+    <Code>TKL</Code>
+    <Name>Tokelau</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>12</SurfaceArea>
+    <IndepYear/>
+    <Population>2000</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Tokelau</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of New Zealand</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3333</Capital>
+    <Code2>TK</Code2>
+  </Country>
+  <Country>
+    <Code>TKM</Code>
+    <Name>Turkmenistan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>488100</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>4459000</Population>
+    <LifeExpectancy>60.9</LifeExpectancy>
+    <GNP>4397</GNP>
+    <GNPOld>2000</GNPOld>
+    <LocalName>TÃ¼rkmenostan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Saparmurad Nijazov</HeadOfState>
+    <Capital>3419</Capital>
+    <Code2>TM</Code2>
+  </Country>
+  <Country>
+    <Code>TMP</Code>
+    <Name>East Timor</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>14874</SurfaceArea>
+    <IndepYear/>
+    <Population>885000</Population>
+    <LifeExpectancy>46</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Timor Timur</LocalName>
+    <GovernmentForm>Administrated by the UN</GovernmentForm>
+    <HeadOfState>JosÃ© Alexandre GusmÃ£o</HeadOfState>
+    <Capital>1522</Capital>
+    <Code2>TP</Code2>
+  </Country>
+  <Country>
+    <Code>TON</Code>
+    <Name>Tonga</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>650</SurfaceArea>
+    <IndepYear>1970</IndepYear>
+    <Population>99000</Population>
+    <LifeExpectancy>67.9</LifeExpectancy>
+    <GNP>146</GNP>
+    <GNPOld>170</GNPOld>
+    <LocalName>Tonga</LocalName>
+    <GovernmentForm>Monarchy</GovernmentForm>
+    <HeadOfState>Taufa&#x27;ahau Tupou IV</HeadOfState>
+    <Capital>3334</Capital>
+    <Code2>TO</Code2>
+  </Country>
+  <Country>
+    <Code>TTO</Code>
+    <Name>Trinidad and Tobago</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>5130</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>1295000</Population>
+    <LifeExpectancy>68</LifeExpectancy>
+    <GNP>6232</GNP>
+    <GNPOld>5867</GNPOld>
+    <LocalName>Trinidad and Tobago</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Arthur N. R. Robinson</HeadOfState>
+    <Capital>3336</Capital>
+    <Code2>TT</Code2>
+  </Country>
+  <Country>
+    <Code>TUN</Code>
+    <Name>Tunisia</Name>
+    <Continent>Africa</Continent>
+    <Region>Northern Africa</Region>
+    <SurfaceArea>163610</SurfaceArea>
+    <IndepYear>1956</IndepYear>
+    <Population>9586000</Population>
+    <LifeExpectancy>73.7</LifeExpectancy>
+    <GNP>20026</GNP>
+    <GNPOld>18898</GNPOld>
+    <LocalName>Tunis/Tunisie</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Zine al-Abidine Ben Ali</HeadOfState>
+    <Capital>3349</Capital>
+    <Code2>TN</Code2>
+  </Country>
+  <Country>
+    <Code>TUR</Code>
+    <Name>Turkey</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>774815</SurfaceArea>
+    <IndepYear>1923</IndepYear>
+    <Population>66591000</Population>
+    <LifeExpectancy>71</LifeExpectancy>
+    <GNP>210721</GNP>
+    <GNPOld>189122</GNPOld>
+    <LocalName>TÃ¼rkiye</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ahmet Necdet Sezer</HeadOfState>
+    <Capital>3358</Capital>
+    <Code2>TR</Code2>
+  </Country>
+  <Country>
+    <Code>TUV</Code>
+    <Name>Tuvalu</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>26</SurfaceArea>
+    <IndepYear>1978</IndepYear>
+    <Population>12000</Population>
+    <LifeExpectancy>66.3</LifeExpectancy>
+    <GNP>6</GNP>
+    <GNPOld/>
+    <LocalName>Tuvalu</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3424</Capital>
+    <Code2>TV</Code2>
+  </Country>
+  <Country>
+    <Code>TWN</Code>
+    <Name>Taiwan</Name>
+    <Continent>Asia</Continent>
+    <Region>Eastern Asia</Region>
+    <SurfaceArea>36188</SurfaceArea>
+    <IndepYear>1945</IndepYear>
+    <Population>22256000</Population>
+    <LifeExpectancy>76.4</LifeExpectancy>
+    <GNP>256254</GNP>
+    <GNPOld>263451</GNPOld>
+    <LocalName>TÂ’ai-wan</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Chen Shui-bian</HeadOfState>
+    <Capital>3263</Capital>
+    <Code2>TW</Code2>
+  </Country>
+  <Country>
+    <Code>TZA</Code>
+    <Name>Tanzania</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>883749</SurfaceArea>
+    <IndepYear>1961</IndepYear>
+    <Population>33517000</Population>
+    <LifeExpectancy>52.3</LifeExpectancy>
+    <GNP>8005</GNP>
+    <GNPOld>7388</GNPOld>
+    <LocalName>Tanzania</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Benjamin William Mkapa</HeadOfState>
+    <Capital>3306</Capital>
+    <Code2>TZ</Code2>
+  </Country>
+  <Country>
+    <Code>UGA</Code>
+    <Name>Uganda</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>241038</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>21778000</Population>
+    <LifeExpectancy>42.9</LifeExpectancy>
+    <GNP>6313</GNP>
+    <GNPOld>6887</GNPOld>
+    <LocalName>Uganda</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Yoweri Museveni</HeadOfState>
+    <Capital>3425</Capital>
+    <Code2>UG</Code2>
+  </Country>
+  <Country>
+    <Code>UKR</Code>
+    <Name>Ukraine</Name>
+    <Continent>Europe</Continent>
+    <Region>Eastern Europe</Region>
+    <SurfaceArea>603700</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>50456000</Population>
+    <LifeExpectancy>66</LifeExpectancy>
+    <GNP>42168</GNP>
+    <GNPOld>49677</GNPOld>
+    <LocalName>Ukrajina</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Leonid KutÂšma</HeadOfState>
+    <Capital>3426</Capital>
+    <Code2>UA</Code2>
+  </Country>
+  <Country>
+    <Code>UMI</Code>
+    <Name>United States Minor Outlying Islands</Name>
+    <Continent>Oceania</Continent>
+    <Region>Micronesia/Caribbean</Region>
+    <SurfaceArea>16</SurfaceArea>
+    <IndepYear/>
+    <Population>0</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>United States Minor Outlying Islands</LocalName>
+    <GovernmentForm>Dependent Territory of the US</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital/>
+    <Code2>UM</Code2>
+  </Country>
+  <Country>
+    <Code>URY</Code>
+    <Name>Uruguay</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>175016</SurfaceArea>
+    <IndepYear>1828</IndepYear>
+    <Population>3337000</Population>
+    <LifeExpectancy>75.2</LifeExpectancy>
+    <GNP>20831</GNP>
+    <GNPOld>19967</GNPOld>
+    <LocalName>Uruguay</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Jorge Batlle IbÃ¡Ã±ez</HeadOfState>
+    <Capital>3492</Capital>
+    <Code2>UY</Code2>
+  </Country>
+  <Country>
+    <Code>USA</Code>
+    <Name>United States</Name>
+    <Continent>North America</Continent>
+    <Region>North America</Region>
+    <SurfaceArea>9363520</SurfaceArea>
+    <IndepYear>1776</IndepYear>
+    <Population>278357000</Population>
+    <LifeExpectancy>77.1</LifeExpectancy>
+    <GNP>8510700</GNP>
+    <GNPOld>8110900</GNPOld>
+    <LocalName>United States</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital>3813</Capital>
+    <Code2>US</Code2>
+  </Country>
+  <Country>
+    <Code>UZB</Code>
+    <Name>Uzbekistan</Name>
+    <Continent>Asia</Continent>
+    <Region>Southern and Central Asia</Region>
+    <SurfaceArea>447400</SurfaceArea>
+    <IndepYear>1991</IndepYear>
+    <Population>24318000</Population>
+    <LifeExpectancy>63.7</LifeExpectancy>
+    <GNP>14194</GNP>
+    <GNPOld>21300</GNPOld>
+    <LocalName>Uzbekiston</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Islam Karimov</HeadOfState>
+    <Capital>3503</Capital>
+    <Code2>UZ</Code2>
+  </Country>
+  <Country>
+    <Code>VAT</Code>
+    <Name>Holy See (Vatican City State)</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>0.4</SurfaceArea>
+    <IndepYear>1929</IndepYear>
+    <Population>1000</Population>
+    <LifeExpectancy/>
+    <GNP>9</GNP>
+    <GNPOld/>
+    <LocalName>Santa Sede/CittÃ  del Vaticano</LocalName>
+    <GovernmentForm>Independent Church State</GovernmentForm>
+    <HeadOfState>Johannes Paavali II</HeadOfState>
+    <Capital>3538</Capital>
+    <Code2>VA</Code2>
+  </Country>
+  <Country>
+    <Code>VCT</Code>
+    <Name>Saint Vincent and the Grenadines</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>388</SurfaceArea>
+    <IndepYear>1979</IndepYear>
+    <Population>114000</Population>
+    <LifeExpectancy>72.3</LifeExpectancy>
+    <GNP>285</GNP>
+    <GNPOld/>
+    <LocalName>Saint Vincent and the Grenadines</LocalName>
+    <GovernmentForm>Constitutional Monarchy</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>3066</Capital>
+    <Code2>VC</Code2>
+  </Country>
+  <Country>
+    <Code>VEN</Code>
+    <Name>Venezuela</Name>
+    <Continent>South America</Continent>
+    <Region>South America</Region>
+    <SurfaceArea>912050</SurfaceArea>
+    <IndepYear>1811</IndepYear>
+    <Population>24170000</Population>
+    <LifeExpectancy>73.1</LifeExpectancy>
+    <GNP>95023</GNP>
+    <GNPOld>88434</GNPOld>
+    <LocalName>Venezuela</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Hugo ChÃ¡vez FrÃ­as</HeadOfState>
+    <Capital>3539</Capital>
+    <Code2>VE</Code2>
+  </Country>
+  <Country>
+    <Code>VGB</Code>
+    <Name>Virgin Islands, British</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>151</SurfaceArea>
+    <IndepYear/>
+    <Population>21000</Population>
+    <LifeExpectancy>75.4</LifeExpectancy>
+    <GNP>612</GNP>
+    <GNPOld>573</GNPOld>
+    <LocalName>British Virgin Islands</LocalName>
+    <GovernmentForm>Dependent Territory of the UK</GovernmentForm>
+    <HeadOfState>Elisabeth II</HeadOfState>
+    <Capital>537</Capital>
+    <Code2>VG</Code2>
+  </Country>
+  <Country>
+    <Code>VIR</Code>
+    <Name>Virgin Islands, U.S.</Name>
+    <Continent>North America</Continent>
+    <Region>Caribbean</Region>
+    <SurfaceArea>347</SurfaceArea>
+    <IndepYear/>
+    <Population>93000</Population>
+    <LifeExpectancy>78.1</LifeExpectancy>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Virgin Islands of the United States</LocalName>
+    <GovernmentForm>US Territory</GovernmentForm>
+    <HeadOfState>George W. Bush</HeadOfState>
+    <Capital>4067</Capital>
+    <Code2>VI</Code2>
+  </Country>
+  <Country>
+    <Code>VNM</Code>
+    <Name>Vietnam</Name>
+    <Continent>Asia</Continent>
+    <Region>Southeast Asia</Region>
+    <SurfaceArea>331689</SurfaceArea>
+    <IndepYear>1945</IndepYear>
+    <Population>79832000</Population>
+    <LifeExpectancy>69.3</LifeExpectancy>
+    <GNP>21929</GNP>
+    <GNPOld>22834</GNPOld>
+    <LocalName>ViÃªt Nam</LocalName>
+    <GovernmentForm>Socialistic Republic</GovernmentForm>
+    <HeadOfState>TrÃ¢n Duc Luong</HeadOfState>
+    <Capital>3770</Capital>
+    <Code2>VN</Code2>
+  </Country>
+  <Country>
+    <Code>VUT</Code>
+    <Name>Vanuatu</Name>
+    <Continent>Oceania</Continent>
+    <Region>Melanesia</Region>
+    <SurfaceArea>12189</SurfaceArea>
+    <IndepYear>1980</IndepYear>
+    <Population>190000</Population>
+    <LifeExpectancy>60.6</LifeExpectancy>
+    <GNP>261</GNP>
+    <GNPOld>246</GNPOld>
+    <LocalName>Vanuatu</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>John Bani</HeadOfState>
+    <Capital>3537</Capital>
+    <Code2>VU</Code2>
+  </Country>
+  <Country>
+    <Code>WLF</Code>
+    <Name>Wallis and Futuna</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>200</SurfaceArea>
+    <IndepYear/>
+    <Population>15000</Population>
+    <LifeExpectancy/>
+    <GNP>0</GNP>
+    <GNPOld/>
+    <LocalName>Wallis-et-Futuna</LocalName>
+    <GovernmentForm>Nonmetropolitan Territory of France</GovernmentForm>
+    <HeadOfState>Jacques Chirac</HeadOfState>
+    <Capital>3536</Capital>
+    <Code2>WF</Code2>
+  </Country>
+  <Country>
+    <Code>WSM</Code>
+    <Name>Samoa</Name>
+    <Continent>Oceania</Continent>
+    <Region>Polynesia</Region>
+    <SurfaceArea>2831</SurfaceArea>
+    <IndepYear>1962</IndepYear>
+    <Population>180000</Population>
+    <LifeExpectancy>69.2</LifeExpectancy>
+    <GNP>141</GNP>
+    <GNPOld>157</GNPOld>
+    <LocalName>Samoa</LocalName>
+    <GovernmentForm>Parlementary Monarchy</GovernmentForm>
+    <HeadOfState>Malietoa Tanumafili II</HeadOfState>
+    <Capital>3169</Capital>
+    <Code2>WS</Code2>
+  </Country>
+  <Country>
+    <Code>YEM</Code>
+    <Name>Yemen</Name>
+    <Continent>Asia</Continent>
+    <Region>Middle East</Region>
+    <SurfaceArea>527968</SurfaceArea>
+    <IndepYear>1918</IndepYear>
+    <Population>18112000</Population>
+    <LifeExpectancy>59.8</LifeExpectancy>
+    <GNP>6041</GNP>
+    <GNPOld>5729</GNPOld>
+    <LocalName>Al-Yaman</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Ali Abdallah Salih</HeadOfState>
+    <Capital>1780</Capital>
+    <Code2>YE</Code2>
+  </Country>
+  <Country>
+    <Code>YUG</Code>
+    <Name>Yugoslavia</Name>
+    <Continent>Europe</Continent>
+    <Region>Southern Europe</Region>
+    <SurfaceArea>102173</SurfaceArea>
+    <IndepYear>1918</IndepYear>
+    <Population>10640000</Population>
+    <LifeExpectancy>72.4</LifeExpectancy>
+    <GNP>17000</GNP>
+    <GNPOld/>
+    <LocalName>Jugoslavija</LocalName>
+    <GovernmentForm>Federal Republic</GovernmentForm>
+    <HeadOfState>Vojislav KoÂštunica</HeadOfState>
+    <Capital>1792</Capital>
+    <Code2>YU</Code2>
+  </Country>
+  <Country>
+    <Code>ZAF</Code>
+    <Name>South Africa</Name>
+    <Continent>Africa</Continent>
+    <Region>Southern Africa</Region>
+    <SurfaceArea>1221037</SurfaceArea>
+    <IndepYear>1910</IndepYear>
+    <Population>40377000</Population>
+    <LifeExpectancy>51.1</LifeExpectancy>
+    <GNP>116729</GNP>
+    <GNPOld>129092</GNPOld>
+    <LocalName>South Africa</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Thabo Mbeki</HeadOfState>
+    <Capital>716</Capital>
+    <Code2>ZA</Code2>
+  </Country>
+  <Country>
+    <Code>ZMB</Code>
+    <Name>Zambia</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>752618</SurfaceArea>
+    <IndepYear>1964</IndepYear>
+    <Population>9169000</Population>
+    <LifeExpectancy>37.2</LifeExpectancy>
+    <GNP>3377</GNP>
+    <GNPOld>3922</GNPOld>
+    <LocalName>Zambia</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Frederick Chiluba</HeadOfState>
+    <Capital>3162</Capital>
+    <Code2>ZM</Code2>
+  </Country>
+  <Country>
+    <Code>ZWE</Code>
+    <Name>Zimbabwe</Name>
+    <Continent>Africa</Continent>
+    <Region>Eastern Africa</Region>
+    <SurfaceArea>390757</SurfaceArea>
+    <IndepYear>1980</IndepYear>
+    <Population>11669000</Population>
+    <LifeExpectancy>37.8</LifeExpectancy>
+    <GNP>5951</GNP>
+    <GNPOld>8670</GNPOld>
+    <LocalName>Zimbabwe</LocalName>
+    <GovernmentForm>Republic</GovernmentForm>
+    <HeadOfState>Robert G. Mugabe</HeadOfState>
+    <Capital>4068</Capital>
+    <Code2>ZW</Code2>
+  </Country>
+</root>

@@ -1,0 +1,127 @@
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.json
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.xml
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\worldbaza.accdb
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormjSON.resources
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormXML.resources
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stu\Desktop\Gajewski17.01\apka\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.json
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.xml
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\worldbaza.accdb
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormjSON.resources
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormXML.resources
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Currency.resources
+D:\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mortage.resources
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.json
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.xml
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\worldbaza.accdb
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Currency.resources
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormjSON.resources
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormXML.resources
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.xml
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.json
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.json
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.xml
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.xml
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\worldbaza.accdb
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.json
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Currency.resources
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormjSON.resources
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormXML.resources
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\stu\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mikol\Desktop\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.json
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.xml
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.xml
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\worldbaza.accdb
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.json
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Currency.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormjSON.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\Połączenie z bazą danych+konwerteryFormatów\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.json
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\country.xml
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.xml
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\worldbaza.accdb
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\curr.json
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Currency.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormjSON.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mikołaj\Desktop\Ver2Projektc#\ProjekcikC#\core\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

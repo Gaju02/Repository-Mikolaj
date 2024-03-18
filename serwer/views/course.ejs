@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Course Details</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <% if (course) { %>
+    <h2><%= course.title %></h2>
+    <p>Description: <%= course.description %></p>
+    <p>Price: <%= course.price %> $</p>
+    <p>Duration: <%= course.duration %></p>
+    <iframe width="560" height="315" src="https://youtu.be/nn6lEfQFqGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="buttonZakup">
+    <form action="/course/<%= course._id %>/purchase" method="POST">
+        <button type="submit">Zakup</button>
+    </form>
+  </div>
+  <% } else { %>
+    <p>Course not found.</p>
+  <% } %>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Course App</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="container">
+  <header>
+  <nav class="nav-bar">
+    <ul>
+      <% if (user) { %>
+        <li><a href="/add">Dodaj kurs</a></li>
+        <li><a href="/logout">Wyloguj się</a></li>
+      <% } else { %>
+        <li><a href="/register">Rejestracja</a></li>
+        <li><a href="/login">Logowanie</a></li>
+      <% } %>
+    </ul>
+  </nav>
+</header>
+  
+  <h1>Witaj w aplikacji kursów e-learning ver. 1.0</h1>
+  
+  <% courses.forEach(course => { %>
+    <h2><%= course.title %></h2>
+    <p>Opis: <%= course.description %></p>
+    <% if (course.price) { %>
+      <p>Cena: $<%= course.price.toFixed(2) %></p>
+    <% } %>
+    <p>Czas trwania: <%= course.duration %></p>
+    <a href="/course/<%= course._id %>">Podgląd</a>
+  <% }) %>
+</div>
+</body>
+</html>

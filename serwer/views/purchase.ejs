@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zakup</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script>
+    function validateForm() {
+      var warunkiUmowyCheckbox = document.getElementById("warunkiUmowy");
+      var warunkiMarketingoweCheckbox = document.getElementById("warunkiMarketingowe");
+
+      if (!warunkiUmowyCheckbox.checked && !warunkiMarketingoweCheckbox.checked) {
+        alert("Musisz zaakceptować przynajmniej jeden warunek!");
+        return false;
+      }
+      return true;
+    }
+  </script>
+</head>
+<body>
+  <div class="purchase">
+  <form action="/course/<%= courseId %>/purchase/payments" method="post">
+    <div class="formulaText">Formularz zakupu.</div>
+    <label for="imie">imię:</label>
+    <input type="text" name="imie" id="imie" required><br>
+    <label for="nazwisko">nazwisko:</label>
+    <input type="text" name="nazwisko" id="nazwisko" required><br>
+    <label for="email">email:</label>
+    <input type="text" name="email" id="email" required><br>
+    <input type="checkbox" id="warunkiUmowy" name="warunkiUmowy" required>
+    <label for="warunkiUmowy">*Akceptuję warunki umowy oraz przetwarzanie moich danych osobowych</label><br>
+    <input type="checkbox" id="warunkiMarketingowe" name="warunkiMarketingowe">
+    <label for="warunkiMarketingowe">Akceptuję warunki marketingowe</label><br>
+    <button type="submit">Akceptuj</button>
+  </form>
+
+  <form action="/" method="get">
+    <button type="submit">Cofnij</button>
+  </form>
+</div>
+</body>
+</html>
